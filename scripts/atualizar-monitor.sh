@@ -9,7 +9,7 @@ gh auth status >/dev/null 2>&1 || gh auth login -h github.com -p https -w
 OWNER="$(gh api user -q .login)"
 TMP="$(mktemp -d)"
 gh repo clone "$OWNER/$REPO" "$TMP/repo" -- -q
-cp -r scripts .github package.json README.md "$TMP/repo/"
+cp -r scripts cloud-brasil .github package.json README.md "$TMP/repo/"
 cd "$TMP/repo"
 git config user.name "$OWNER"; git config user.email "$OWNER@users.noreply.github.com"
 git add -A
