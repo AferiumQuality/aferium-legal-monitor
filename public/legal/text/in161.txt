@@ -1,0 +1,23 @@
+Contaminantes em alimentos
+Explica o que são contaminantes, como são estabelecidos os limites máximos de sua ocorrência nos alimentos e as medidas importantes para a proteção da saúde.
+Publicado em 08/06/2021 14:18 Modificado em 24/06/2026 11:47 Compartilhe :
+Os contaminantes são agentes biológicos, físicos ou químicos que podem trazer danos à saúde da população quando encontrados nos alimentos. A contaminação do alimento ocorre de forma não intencional e usualmente está associada a:
+- os poluentes ambientais dispersos na área de plantio ou de criação dos animais e nos locais de produção do alimento;
+- a presença de micro-organismos e substâncias químicas nas matérias-primas vegetais ou animais e em ingredientes alimentares; e
+- a formação de substâncias no alimento, como resultado de processos tecnológicos ou modificações físico-químicas.
+Na maioria das vezes, a contaminação pode ser evitada ou reduzida ao longo da cadeia produtiva, se observadas as Boas Práticas Agrícolas (BPA) e Boas Práticas de Fabricação (BPF). Essas práticas compreendem controles comuns, como preservação de um ambiente higiênico de produção ou a seleção de matérias-primas e ingredientes de qualidade, ou mais especializados, como uso de tecnologias para a prevenção, redução ou eliminação dos contaminantes, a exemplo de detectores de metais, ultrafiltração ou irradiação.
+Entretanto, há situações em que, mesmo usando as melhores práticas, remanesce uma quantidade do contaminante no alimento que pode ser tolerada sem trazer prejuízos significativos à saúde. Nestes casos, uma das medidas regulatórias é estabelecer limites máximos aceitáveis , acima dos quais os alimentos não poderão ser expostos ao consumo. Esses limites podem variar de acordo com o tipo de alimento ou o grupo populacional, adotando-se valores mais restritivos para as pessoas mais vulneráveis.
+A Anvisa é a autoridade federal responsável pelo estabelecimento de limites de contaminantes nos alimentos no Brasil. Para a fixação desses limites, a Anvisa adota as metodologias recomendadas pela Organização Mundial de Saúde (OMS) e Organização das Nações Unidas para a Alimentação e a Agricultura (FAO). Um conjunto vasto de dados e informações científicas são levantados nesse processo, compreendendo: a caracterização do contaminante, a cadeia de produção e os controles do alimento e o padrão de consumo da população.
+Há alguns contaminantes para os quais não é possível estabelecer limites máximos aceitáveis, por razões relacionadas a suas características toxicológicas ou pela existência de incertezas científicas. Nestes casos, o cerne do controle é garantir os menores níveis possíveis, a partir da ação das Boas Práticas de Fabricação, na cadeia produtiva, e a comunicação de risco direcionada aos consumidores.
+LIMITES DE CONTAMINANTES QUÍMICOS
+RDC 722/2022 - Dispõe sobre os limites máximos tolerados (LMT) de contaminantes em alimentos, os princípios gerais para o seu estabelecimento e os métodos de análise para fins de avaliação de conformidade
+Ato relacionado: 160/2022 - Estabelece os limites máximos tolerados (LMT) de contaminantes em alimentos.
+Para o estabelecimento dessas normas, foram levantados dados sobre concentração de contaminantes em alimentos comercializados no país, por meio do Edital de Chamamento n°3 , de 2019. A chamada de dados é uma estratégia praticada internacionalmente, pois é uma etapa importante e preliminar para a revisão dos limites máximos de contaminantes alimentares que visam a proteção à saúde da população sem provocar impacto na oferta de alimentos. O resultado da organização e avaliação dos dados de contaminantes aportados à Anvisa por meio do referido Edital está divulgado no portal .
+Em 2019, foi aberto o Edital de Chamamento n°3 para coleta de dados sobre a concentração de contaminantes em alimentos comercializados no país. A chamada de dados é uma estratégia praticada internacionalmente, pois é uma etapa importante e preliminar para a revisão dos limites máximos de contaminantes alimentares que visam a proteção à saúde da população sem provocar impacto na oferta de alimentos. O resultado da organização e avaliação dos dados de contaminantes aportados à Anvisa por meio do referido Edital está divulgado no portal .
+LIMITES DE CONTAMINANTES MICROBIOLÓGICOS
+RDC 724/2022 - Dispõe sobre os padrões microbiológicos dos alimentos e sua aplicação.
+Ato relacionado: 161/2022 - Estabelece os padrões microbiológicos dos alimentos.
+Outros regulamentos relacionados a contaminantes em alimentos podem ser encontrados na Biblioteca temática da área de alimentos .
+Perguntas frequentes
+Contaminantes
+Padrões microbiológicos

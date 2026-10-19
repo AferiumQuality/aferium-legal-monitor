@@ -1,0 +1,24 @@
+RDC 655/2022
+Publicado em 19/05/2022 14:35 Modificado em 01/11/2022 09:57 Compartilhe :
+Consolidação da RDC 24/2015
+A Resolução de Diretoria Colegiada-RDC nº 655, de 30 de março de 2022 , trata do recolhimento de alimentos e sua comunicação à Anvisa e aos consumidores, assunto previsto anteriormente pela Resolução de Diretoria Colegiada-RDC nº 24, de 8 de junho de 2015.
+A revisão da RDC 24/2015 resultou na edição de novo ato normativo com adequação de técnica legislativa e ajustes pontuais para atualização da prática do processo eletrônico implementado pela Anvisa nos últimos anos.
+Dessa forma, o processo de recolhimento de alimentos requer o cadastramento da empresa no sistema da Anvisa, conforme previsto no parágrafo único do art. 21 da RDC 655/2021.
+O cadastro da empresa junto à Anvisa é um procedimento administrativo que permite a empresa ter acesso ao peticionamento eletrônico e confere agilidade na comunicação entre ambas as partes.
+A solicitação do cadastro junto à Anvisa e definição de protocolo dos relatórios de recolhimento por meio do sistema de peticionamento eletrônico, já era um procedimento realizado pela Anvisa.
+Contudo, este procedimento foi incluído na nova RDC para fins de desburocratização de exigências que são realizadas pela Anvisa e previsão clara da forma de protocolo, uma vez que, anteriormente, ao ser recebida a comunicação de recolhimento pelo e-mail recolhimento.alimentos@anvisa.gov.br , era solicitado o cadastro da empresa junto à Anvisa para possibilitar que o acompanhamento da ação de recolhimento seja feito por meio do peticionamento eletrônico.
+A inclusão de tais dispositivos trouxe previsibilidade e otimizou o processo de comunicação entre as empresas e a Anvisa, sem implicar risco sanitário e prejuízo aos atores envolvidos.
+Importante destacar que o cadastro da empresa junto à Anvisa não representa a regularidade sanitária do estabelecimento, o qual deve ser feito mediante o licenciamento junto à autoridade sanitária local, conforme o disposto no art. 46 do Decreto-Lei 986/1969 e item 4.1 da Resolução 23/2000.
+Para realizar o cadastro da empresa, orientamos seguir as instruções constantes nesta página .
+Além disso, a anuência de mensagem de alerta e os relatórios de recolhimento exigidos na RDC 655/2022 devem apresentados à Anvisa por meio do sistema de peticionamento eletrônico, conforme o previsto no art. 24 da RDC 655/2022.
+Para isso, a empresa deve usar as seguintes petições:
+70363 - ALIMENTOS - Anuência para Veicular Publicidade Contendo Alerta à População, no Prazo e Condições Indicadas pela Autoridade Sanitária: petição deve ser protocolada imediatamente após a ciência da necessidade de recolhimento do produto e conhecimento do número do processo na Anvisa para o caso.
+70816 - ALIMENTOS (Fiscalização) - Relatório Inicial de Recolhimento: petição deve ser protocolada em até 48 h a partir da ciência da necessidade de recolhimento, seja por iniciativa da própria empresa ou por determinação da Anvisa.
+70817 - ALIMENTOS (Fiscalização) - Relatório Periódico de Recolhimento: petição deve ser protocolada 30 dias após o comunicado de início de recolhimento e os relatórios subsequentes em igual período.
+70818 - ALIMENTOS (Fiscalização) - Relatório Conclusivo de Recolhimento: petição deve ser protocolada 120 dias após o comunicado de início de recolhimento.
+A apresentação em períodos diferentes deve ter sua necessidade demonstrada.
+Os documentos de instrução da petição podem ser consultados aqu i, clicando em “Funcionamento da empresa” e “Consultar”.
+Para mais esclarecimentos sobre peticionamento eletrônico, sugerimos consultar esta página .
+Vale lembrar que as petições relacionadas ao processo de recolhimento de alimentos são secundárias e, portanto, tais códigos de petição só aparecem no Solicita (sistema de peticionamento eletrônico) como petição vinculada a um processo já existente.
+Assim, o protocolo da petição deve ser vinculado ao processo em curso informado à empresa por meio do e-mail recolhimento.alimentos@anvisa.gov.br em resposta ao comunicado de recolhimento (procedimento voluntário) ou por meio de notificação (procedimento determinado).
+No item 6 do Manual do Solicita constam as orientações para cadastro de uma petição vinculada a um processo já existente.

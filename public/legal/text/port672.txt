@@ -1,0 +1,74 @@
+Info
+SISBI-POA
+Conheça o Sistema Brasileiro de Inspeção de Produtos de Origem Animal (SISBI-POA), que faz parte do SUASA. Bem como, os procedimentos de integração ao SISBI-POA pelo Sistema de Gestão de Serviços de Inspeção (e-Sisbi)
+Compartilhe:
+Compartilhe por Facebook
+Compartilhe por Twitter
+Compartilhe por LinkedIn
+Compartilhe por WhatsApp
+link para Copiar para área de transferência
+Publicado em
+Atualizado em
+Colaboradores: aline.nunes
+O Sistema Brasileiro de Inspeção de Produtos de Origem Animal (SISBI-POA), que faz parte do Sistema Unificado de Atenção a Sanidade Agropecuária (SUASA), padroniza e harmoniza os procedimentos de inspeção de produtos de origem animal para garantir a inocuidade e segurança alimentar.
+Os Estados, o Distrito Federal, os Municípios e os Consórcios Públicos Municipais podem integrar os seus Serviços de Inspeção. Para obtê-la, é necessário realizar o cadastro no Sistema de Gestão de Serviços de Inspeção (e-Sisbi) e demostrar por meio que possuem condições de executar a inspeção e fiscalização de produtos de origem animal com a mesma eficiência do Ministério da Agricultura e Pecuária (MAPA).
+INTEGRAÇÃO AO SISBI-POA:
+Os requisitos e demais procedimentos necessários para a integração ao SISBI-POA foram publicados pelo Ministério da Agricultura e Pecuária (MAPA) na Portaria MAPA n° 672 de 08 de abril de 2024, sendo necessário:
+1°) Realizar o Cadastro Geral no e-SISBI e manifestar interesse pela integração na aba 'Escopo" . Clique no aqui e saiba mais.
+-Caso seja novo cadastro de Serviço de Inspeção ou municípios participante de consórcio público municipal (que deseje cadastro individualmente para integração no SISBI), a manifestação de interesse à integração ao Sisbi-Poa deve ser gerada pelo preenchimento do formulário eletrônico , anexada na solicitação de acesso. Após a aprovação de acesso ao sistema, deve ser assinalada na aba "Escopo";
+- Caso já possua cadastro no e-SISBI, deve-se preencher a manifestação de interesse na aba "Escopo".
+- A partir da manifestação positiva o e-SISBI inicia o prazo de 90dias para realizar os passos para apresentação dos requisitos para integração ao Sisbi-Poa.
+2°) Cadastrar os estabelecimentos e produtos interessados no Sisbi-Poa. Clique aqui e saiba mais.
+- Consulte a lista de nomes padronizados disponíveis para cadastro de produtos no e-SISBI, clicando aqui.
+- O padrão de nomenclatura, produto padronizado e categoria dos produtos de origem animal do MAPA está disponível na PORTARIA SDA/MAPA nº 1.485, DE 17 DE DEZEMBRO DE 2025 .
+- Os produtos de inetresse no SISBI devem atender aos regulamentos de identidade e qualidade do MAPA, consulte-os clicando aqui.
+3°) Cadastrar a Legislação/Documentação para Qualificação ao SISBI . Clique aqui e saiba mais.
+- Cadastrar legislação e documentação complementar, resolvendo as 22 pendências da aba "Complementares" no e-SISBI;
+-Elaborar o programa de trabalho no novo modelo padronizado , seguindo as orientações do Guia para Elaboração do Programa de Trabalho .
+-O programa de Trabalho deve ser cadastrado na aba "Complementares" na opção de legislação/documentação complementar correspondente.
+4°) Realizar a Autoavaliação de Equivalência. Clique no aqui e saiba mais.
+- A partir de Maio de 2025 - a autoavaliação de equivalência está disponível na ana Escopo do e-SISBI/SGSI para preenchimento pelo responsável pelo Serviço de Inspeção, por meio do envio da Autoavaliação de Equivalência no e-SISBI/SGSI, que é feita a solicitação de integração ao Sisbi-Poa, de ampliação de escopo para os Serviços de Inspeção já integrados. Bem como, os serviços de inspeção integrantes do Sisbi-Poa devem realizar e manter atualizada a autoavaliação de equivalência mesmo que não desejam ampliar escopo.
+- Consulta o extrato da Autoavaliação de equivalência e verifique se possui os requisitos necessários.
+5°) Obter a Integração ao Sisbi-Poa: Após a validação do cadastro no e-SISBI (confira os critérios clicando aqui ), será publicada a Portaria de Integração ao SISB-POA. Caso haja necessidade correção, o Serviço de Inspeção possui 30 dias para adequação. Caso contrário o Serviço de Inspeção, não cumpra o prazo das adequações, a solicitação será finalizada. Devendo preencher nova autoavaliação de equivalência atualizada com as correções.
+AMPLIAÇÃO DE ESCOPO OU MANUTENÇÃO DA CONFORMIDADE AO SISBI-POA- SERVIÇOS JÁ INTEGRADOS:
+Após a integração, o Serviço de inspeção poderá ser auditado, para verificar a efetiva execução do programa de trabalho e o atendimento dos requisitos apresentados na autoavaliação de equivalência, assim, os serviços já integrados devem seguir os procedimentos abaixo. Clique nos links e sabia mais:
+1°) Resolver as pendências na aba " Escopo " e " Complementares" no e-SISBI;
+2°) Atualizar o programa de trabalho no modelo novo , seguindo o Guia para Elaboração do Programa de Trabalho .
+3°) Realizar a Autoavaliação de Equivalência . Consulta o extrato da Autoavaliação de equivalência .
+4°) Obter a validar conformidade pelo MAPA e publicar despacho decisório para habilitação do escopo no e-SISBI.
+Gestores do SISBI-POA na sede do MAPA e nas Superintendências Federais de Agricultura nos Estados:
+Foram instituídos gestores estaduais para atuarem como técnicos de referência junto às Superintendências Federais de Agricultura (SFA), responsáveis pela divulgação e orientação aos serviços de inspeção interessados na integração ao sistema: Lista completa (clique aqui)
+Mais contatos em: QUEM É QUEM
+Legislação:
+Lei nº 1.283/1950 , que dispõe sobre a inspeção industrial e sanitária dos produtos de origem animal.
+Decreto nº 9.013/2017, que regulamentou a Lei nº 1.283/1950 e a Lei nº 7.889/1989.
+Lei nº 7.889/1989 , que dispõe sobre a inspeção sanitária e industrial de produtos de origem animal e dá outras providências
+Lei nº 8.171/1991 (Lei Agrícola)
+Lei n° 14.515/2022 ( artigo 49° sobre o SISBI-POA ) - Art. 49 altera o art. 29-A da Lei nº 8.171, de 17 de janeiro de 1991
+Decreto nº 5.741/2006 , que regulamentou o funcionamento do SUASA
+Portaria MAPA n° 672/2024 - Estabelece os procedimentos de cadastro no Sistema de Gestão de Serviços de Inspeção (e-Sisbi), as diretrizes e as regras de transição para a integração de Serviços de Inspeção ao Sistema Brasileiro de Inspeção de Produtos de Origem Animal (Sisbi-Poa). ( Em vigor em 02/05/2024) - Apresentação sobre as novas regras - Live e arquivo da apresentação .
+Instrução Normativa Mapa n°17/2020 , que estabelece os Procedimentos Para Reconhecimento da Equivalência e Adesão Ao Sistema Brasileiro de Inspeção de Produtos de Origem Animal (Sisbi-Poa), do Sistema Unificado de Atenção à Sanidade Agropecuária (SUASA)- vigor a partir de 01/04/2020 (Revogada)
+INSTRUÇÃO NORMATIVA Nº 29/2020 , que estabelece os requisitos para o livre comércio de produtos de origem animal, inspecionados por consórcio público de Municípios pelo prazo de três anos até a Adesão ao SISBI-POA . (Revogada)
+Instrução Normativa Mapa nº 05/2017 , que estabelece os requisitos para avaliação de equivalência ao Sistema Unificado de Atenção à Sanidade Agropecuária relativos à estrutura física, dependências e equipamentos de estabelecimento agroindustrial de pequeno porte de produtos de origem animal.
+Instrução Normativa Mapa nº 16/2015 , que estabelece, em todo o território nacional, as normas específicas de inspeção e a fiscalização sanitária de produtos de origem animal, referentes às agroindústrias de pequeno porte
+Instrução Normativa SDA nº 2/2009 , que define o modelo de logotipo a ser inserido na rotulagem dos produtos dos estabelecimentos registrados nos Serviços de Inspeção que aderirem ao SISBI-POA . (Revogada)
+Manual de Identidade Visual da Marca SISBI - (Revogado)
+Memorando DIPOA nº 19/2014 e Parecer CONJUR/MAPA nº 119/2014 sobre o recebimento em estabelecimentos sob SIF de produtos oriundos de estabelecimentos registrados nos Serviços de inspeção Estaduais e/ou Municipais aderidos ao Sistema Brasileiro de Inspeção de Produtos de Origem Animal
+Orientação sobre medicas de mitigação de conflito de interesse pelo Serviços de inspeção integrados ao Sisbi-Poa - Informação 22/222/DSN/SDA/MAPA
+Portaria MAPA nº 930/2026 - Altera a Portaria MAPA nº 672, de 8 de abril de 2024, que estabelece os procedimentos de cadastro no Sistema de Gestão de Serviços de Inspeção.
+Para acessar mais legislações do MAPA referentes aos produtos de origem animal clique aqui.
+Cartilha para criação de Serviços de Inspeção Municipal e sua organização em Consórcios Públicos
+Manuais de processos organizacionais e procedimentos da SDA.
+Cadastro SISBI dos Serviços de Inspeções integrantes, estabelecimentos e produtos participantes do SISBI-POA:
+As consultas aos cadastros no e-SISBI podem ser realizadas pelo Acesso Público e não necessitam de usuário e senha de acesso para navegar pelos dados dos Serviços de Inspeção, seus estabelecimentos e produtos cadastrados:
+Consultar informações da inspeção de produtos de origem animal de estados e municípios cadastrados no e-SISBI
+Mas fique atento a "Situação SISBI" ativo que é referente aos Serviços de Inspeção integrados ao SISBI-POA, bem como a "situação SISBI" dos estabelecimentos, que indicam que participam do SISBI-POA e a situação do Selo SISBI de cada produto e o âmbito de comercialização autorizado.
+e-SISBI ( Saiba mais ) - Acesso Público - clique aqui
+Painel de Dados do e-SISBI
+Tags: sisbi inspeção CSU DSN SUASA
+Compartilhe:
+Compartilhe por Facebook
+Compartilhe por Twitter
+Compartilhe por LinkedIn
+Compartilhe por WhatsApp
+link para Copiar para área de transferência

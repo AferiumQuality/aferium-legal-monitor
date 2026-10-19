@@ -1,0 +1,4463 @@
+Minist�rio da Sa�de
+ADVERT&Ecirc;NCIA
+Este texto n�o substitui o publicado no Diário Oficial da
+União
+Ministério da Saúde
+Gabinete do Ministro
+PORTARIA GM/MS Nº 888, DE 4 DE MAIO DE 2021
+Altera o Anexo XX da Portaria de Consolidação GM/MS nº 5, de 28 de setembro de 2017, para dispor sobre os procedimentos de controle e de vigilância da qualidade da água para consumo humano e seu padrão de potabilidade
+O MINISTRO DE ESTADO DA SAÚDE, no uso das atribuições que lhe conferem os incisos I e II do parágrafo único do art. 87 da Constituição, resolve:
+Art. 1º Esta Portaria dispõe sobre os procedimentos de controle e de vigilância da qualidade da água para consumo humano e seu padrão de potabilidade, na forma do Anexo XX da Portaria de Consolidação GM/MS nº 5, de 28 de setembro de 2017.
+Art. 2º O Anexo XX da Portaria de Consolidação GM/MS nº 5, de 28 de setembro de 2017, passa a vigorar na forma do Anexo a esta Portaria.
+Art. 3º Esta portaria entra em vigor na data de sua publicação.
+MARCELO ANT&Ocirc;NIO CARTAXO QUEIROGA LOPES
+ANEXO
+Anexo XX à Portaria de Consolidação nº 5/GM/MS, de 28 de setembro de 2017
+PROCEDIMENTOS DE CONTROLE E DE VIGIL&Acirc;NCIA DA QUALIDADE DA ÁGUA PARA CONSUMO HUMANO E SEU PADRÃO DE POTABILIDADE
+CAPÍTULO I - DAS DISPOSIÇÕES GERAIS
+Art. 1º Este anexo estabelece os procedimentos de controle e de vigilância da qualidade da água para consumo humano e seu padrão de potabilidade.
+Art. 2º Este Anexo se aplica à água destinada ao consumo humano proveniente de sistema de abastecimento de água, solução alternativa de abastecimento de água, coletiva e individual, e carro-pipa.
+Art. 3º Toda água destinada ao consumo humano, distribuída coletivamente por meio de sistema, solução alternativa coletiva de abastecimento de água ou carro-pipa, deve ser objeto de controle e vigilância da qualidade da água.
+Art. 4º Toda água destinada ao consumo humano proveniente de solução alternativa individual de abastecimento de água está sujeita à vigilância da qualidade da água.
+CAPÍTULO II - DAS DEFINIÇÕES
+Art. 5º Para os fins deste Anexo são adotadas as seguintes definições:
+I - água para consumo humano: água potável destinada à ingestão, preparação de alimentos e à higiene pessoal, independentemente da sua origem;
+II - água potável: água que atenda ao padrão de potabilidade estabelecido neste Anexo e que não ofereça riscos à saúde;
+III - padrão de potabilidade: conjunto de valores permitidos para os parâmetros da qualidade da água para consumo humano, conforme definido neste Anexo;
+IV - padrão organoléptico: conjunto de valores permitidos para os parâmetros caracterizados por provocar estímulos sensoriais que afetam a aceitação para consumo humano, mas que não necessariamente implicam risco à saúde;
+V - sistema de abastecimento de água para consumo humano (SAA): instalação composta por um conjunto de obras civis, materiais e equipamentos, desde a zona de captação até as ligações prediais, destinada à produção e ao fornecimento coletivo de água potável, por meio de rede de distribuição;
+VI - solução alternativa coletiva de abastecimento de água para consumo humano (SAC): modalidade de abastecimento coletivo destinada a fornecer água potável, sem rede de distribuição;
+VII - solução alternativa individual de abastecimento de água para consumo humano (SAI): modalidade de abastecimento de água para consumo humano que atenda a domicílios residenciais com uma única família, incluindo seus agregados familiares;
+VIII - rede de distribuição: parte do sistema de abastecimento formada por tubulações e seus acessórios, destinados a distribuir água potável até as ligações prediais;
+IX - ligações prediais: conjunto de tubos, peças, conexões e equipamentos que interliga a rede de distribuição à instalação hidráulica predial do usuário;
+X - instalação hidráulica predial: rede ou tubulação de água que vai da ligação de água do sistema de abastecimento até o reservatório de água do usuário;
+XI - intermitência: paralização do fornecimento de água com duração igual ou superior a seis horas em cada ocorrência;
+XII - controle da qualidade da água para consumo humano: conjunto de atividades exercidas regularmente pelo responsável pelo sistema ou por solução alternativa coletiva de abastecimento de água, destinado a verificar se a água fornecida à população é potável, de forma a assegurar a manutenção desta condição;
+XIII - vigilância da qualidade da água para consumo humano: conjunto de ações adotadas regularmente pela autoridade de saúde pública para verificar o atendimento a este Anexo e avaliar se a água consumida pela população apresenta risco à saúde;
+XIV - plano de amostragem: documento que inclui definição dos pontos de coleta, número e frequência de coletas de amostras para análise da qualidade da água e de parâmetros a serem monitorados;
+XV - evento de saúde pública (ESP): situação que pode constituir potencial ameaça à saúde pública, como a ocorrência de surto ou epidemia, doença ou agravo de causa desconhecida, alteração no padrão clínico epidemiológico das doenças conhecidas, considerando o potencial de disseminação, a magnitude, a gravidade, a severidade, a transcendência e a vulnerabilidade, bem como epizootias ou agravos decorrentes de desastres ou acidentes;
+XVI - evento de massa: atividade coletiva de natureza cultural, esportiva, comercial, religiosa, social ou política, por tempo pré-determinado, com concentração ou fluxo excepcional de pessoas, de origem nacional ou internacional, e que, segundo a avaliação das ameaças, das vulnerabilidades e dos riscos à saúde pública exijam a atuação coordenada de órgãos de saúde pública da gestão municipal, estadual e federal e requeiram o fornecimento de serviços especiais de saúde, públicos ou privados;
+XVII - carro-pipa: veículo equipado com reservatório utilizado exclusivamente para distribuição e transporte de água para consumo humano;
+XVIII - análise de situação de saúde: ações de monitoramento contínuo da situação de saúde da população do País, Estado, Região, Município ou áreas de abrangência de equipes de atenção à saúde, por estudos e análises que identifiquem e expliquem problemas de saúde e o comportamento dos principais indicadores de saúde, contribuindo para um planejamento de saúde abrangente;
+XIX - plano de ação: conjunto de ações, procedimentos e protocolos que visam corrigir, no menor tempo possível, situações de risco a saúde identificadas em SAA ou SAC;
+XX - situação de risco à saúde: situação que apresenta risco ou ameaça à saúde pública decorrente de desastres, acidentes ou mudanças ambientais, ou ainda por alterações das condições normais de operação e manutenção de sistemas e soluções alternativas de abastecimento de água para consumo, que alterem a qualidade ou quantidade da água de consumo oferecida à população; e
+XXI - povos e comunidades tradicionais: grupos culturalmente diferenciados e que se reconhecem como tais, que possuem formas próprias de organização social, que ocupam e usam territórios e recursos naturais como condição para sua reprodução cultural, social, religiosa, ancestral e econômica, utilizando conhecimentos, inovações e práticas gerados e transmitidos pela tradição.
+CAPÍTULO III - DAS COMPET&Ecirc;NCIAS E RESPONSABILIDADES
+Seção I - Das Competências Gerais dos Entes Federados
+Art. 6º São competências da União, dos Estados, do Distrito Federal e dos Municípios, em seu âmbito administrativo, além de outras que sejam pactuadas pelas Comissões Intergestores:
+I - promover a formação em vigilância da qualidade da água para consumo humano para os profissionais de saúde do SUS;
+II - estabelecer mecanismos de acompanhamento da inserção dos dados no Sistema de Informação da Vigilância da Qualidade da Água para Consumo Humano (Sisagua);
+III - analisar as informações do Sisagua na perspectiva de gestão de riscos e da segurança da água para consumo humano;
+IV - monitorar os indicadores pactuados para avaliação das ações e serviços de vigilância da qualidade da água para consumo humano;
+V - informar à população, de forma clara e acessível, sobre a qualidade da água para consumo humano e os riscos à saúde associados, de acordo com o disposto no Decreto nº 5.440, de 4 de maio de 2005, ou em instrumento legal que venha substituí-lo;
+VI - realizar análise de situação de saúde relacionada ao abastecimento de água para consumo humano; e
+VII - promover ações em articulação com órgãos públicos que tenham relação com o abastecimento de água para consumo humano, tais como órgãos ambientais, gestores de recursos hídricos e entidades de regulação de serviços de saneamento básico.
+Seção II - Das Competências da União
+Art. 7º Para os fins deste Anexo, as competências atribuídas à União serão exercidas pelo Ministério da Saúde e entidades a ele vinculadas, conforme estabelecido nesta Seção.
+Art. 8º Compete à Secretaria de Vigilância em Saúde (SVS/MS):
+I - promover e acompanhar a vigilância da qualidade da água para consumo humano em articulação com as Secretarias de Saúde dos Estados, do Distrito Federal e dos Municípios e respectivos responsáveis pelo controle da qualidade da água;
+II - implementar o Programa Nacional de Vigilância da Qualidade da Água para Consumo Humano (Vigiagua);
+III - estabelecer diretrizes nacionais da vigilância da qualidade da água para consumo humano;
+IV - estabelecer prioridades, objetivos, metas e indicadores de vigilância da qualidade da água para consumo humano a serem pactuados na Comissão Intergestores Tripartite (CIT);
+V - gerenciar o Sisagua;
+VI - disponibilizar publicamente os dados e informações do Sisagua; e
+VII - executar ações de vigilância da qualidade da água para consumo humano de forma complementar à atuação dos Estados, do Distrito Federal e dos Municípios.
+Art. 9º Compete à Secretaria Especial de Saúde Indígena (SESAI/MS) planejar, coordenar, supervisionar, orientar, monitorar e avaliar as ações desenvolvidas nas aldeias indígenas, incluindo:
+I - estabelecer diretrizes para as ações da qualidade da água para consumo humano em aldeias indígenas, a serem implementadas pelos respectivos Distritos Sanitários Especiais Indígenas (DSEI), considerando a realidade local, os aspectos epidemiológicos, socioambientais e etnoculturais;
+II - planejar e implementar, por meio dos Distritos Sanitários Especiais Indígenas (DSEI), ou mediante parcerias, as ações de qualidade da água para consumo humano nas aldeias indígenas, incluindo a operação, a manutenção, o monitoramento e a adoção de boas práticas;
+III - avaliar e implementar ações para minimização ou eliminação de potenciais riscos à saúde relacionados ao abastecimento de água para consumo humano em aldeias indígenas; e
+IV - inserir no Sisagua, os dados sobre o abastecimento de água para consumo humano das aldeias indígenas, por meio dos Distritos Sanitários Especiais Indígenas.
+Art. 10 Compete à Fundação Nacional de Saúde (FUNASA) apoiar as ações de controle e vigilância da qualidade da água para consumo humano, de forma articulada com seus respectivos responsáveis, conforme os critérios e parâmetros estabelecidos neste Anexo.
+Art. 11 Compete à Agência Nacional de Vigilância Sanitária (Anvisa):
+I - exercer a vigilância da qualidade da água para consumo humano nas áreas de portos, aeroportos e passagens de fronteiras terrestres, conforme os critérios e parâmetros estabelecidos neste Anexo, bem como diretrizes específicas pertinentes; e
+II - regulamentar, controlar e fiscalizar águas envasadas.
+Seção III - Das Competências dos Estados
+Art. 12 Compete às Secretarias de Saúde dos Estados e do Distrito Federal:
+I - promover, coordenar, implementar e supervisionar as ações de vigilância da qualidade da água em sua área de competência, em articulação com os responsáveis por SAA ou SAC e com as secretarias de saúde dos municípios, conforme estabelecido neste Anexo e:
+a. no Programa Vigiagua;
+b. na Diretriz Nacional do Plano de Amostragem da Vigilância da Qualidade da Água para Consumo Humano; e
+c. na Diretriz para Atuação em Situações de Surtos de Doenças e Agravos de Veiculação Hídrica.
+II - elaborar diretrizes e normas pertinentes à vigilância da qualidade da água complementares à disciplina nacional;
+III - estabelecer as prioridades, objetivos, metas, prazos para inserção de dados no Sisagua e indicadores de vigilância da qualidade da água para consumo humano a serem pactuados na Comissão Intergestores Bipartite (CIB;
+IV - encaminhar, imediatamente, aos responsáveis por SAA e SAC e as respectivas agências reguladoras informações referentes aos eventos de saúde pública relacionados à qualidade da água para consumo humano; e
+V - executar as ações de vigilância da qualidade da água para consumo humano de forma complementar à atuação dos Municípios, em especial a realização de inspeção sanitária em formas de abastecimento de água para consumo humano.
+Seção IV - Das Competências dos Municípios
+Art. 13 Compete às Secretarias de Saúde dos Municípios e do Distrito Federal:
+I - exercer a vigilância da qualidade da água em sua área de competência, em articulação com o responsável por SAA ou SAC, conforme estabelecido neste Anexo e:
+1 - no Programa Vigiagua;
+2 - na Diretriz nacional do plano de amostragem da vigilância da qualidade da água para consumo humano;
+3 - na Diretriz para Atuação em Situações de Surtos de Doenças e Agravos de Veiculação Hídrica;
+II - elaborar, quando necessário, normas pertinentes à vigilância da qualidade da água complementares às disciplinas estadual e nacional;
+III - manter atualizados no Sisagua os dados de cadastro, controle e vigilância das formas de abastecimento de água para consumo;
+IV - autorizar o fornecimento de água para consumo humano, por meio de sistema ou solução alternativa coletiva de abastecimento de água, considerando os documentos exigidos no Art. 15 deste Anexo;
+V - autorizar o fornecimento de água para consumo humano por meio de carro-pipa;
+VI - realizar inspeções sanitárias periódicas em sistemas e soluções alternativas de abastecimento de água e carro-pipa;
+VII - solicitar anualmente ou sempre que necessário, o plano de amostragem ao responsável por SAA ou SAC;
+VIII - emitir parecer sobre o plano de amostragem elaborado pelos prestadores de serviço em até 30 dias após o recebimento;
+IX - inserir, no Sisagua, os dados do monitoramento de vigilância da qualidade da água para consumo humano;
+X - analisar as informações disponíveis sobre as formas de abastecimento de água para consumo humano, com o objetivo de avaliar o cumprimento dos dispositivos deste Anexo e, quando identificadas não conformidades, proceder com as ações cabíveis, dentre outras ações:
+1 - comunicar imediatamente ao responsável por SAA ou SAC as não conformidades identificadas;
+2 - informar imediatamente às entidades de regulação dos serviços de saneamento básico sobre as não conformidades identificadas, no que couber;
+3 - comunicar imediatamente à população, de forma clara e acessível, sobre os riscos associados ao abastecimento de água e medidas a serem adotadas;
+XI - determinar ao responsável por SAA ou SAC, quando verificadas não conformidades que apontem para situações de risco à saúde, que:
+1 - elabore plano de ação;
+2 - adote e informe as medidas corretivas;
+3 - amplie o número mínimo de amostras;
+4 - aumente a frequência de amostragem; e/ou
+5 - inclua o monitoramento de parâmetros adicionais;
+XII - intensificar as ações do Programa Vigiagua quando ocorrerem eventos de massa, situações de risco a saúde ou eventos de saúde pública relacionados ao abastecimento de água para consumo humano;
+XIII - realizar as ações de vigilância da qualidade da água para consumo humano nas áreas urbanas e rurais, incluindo comunidades tradicionais, aglomerados subnormais, grupos vulneráveis e comunidades indígenas localizadas na sede do município e em terras indígenas não homologadas, neste caso de forma articulada com o respectivo Distrito Sanitário Especial Indígena;
+XIV - avaliar o atendimento dos dispositivos deste Anexo, por parte do responsável por SAA ou SAC, notificando-os e estabelecendo prazo para sanar a(s) irregularidade(s) identificada(s);
+XV - encaminhar, imediatamente, aos responsáveis pelo controle da qualidade da água para consumo humano e as respectivas agências reguladoras, informações referentes aos eventos de saúde pública relacionados à qualidade da água para consumo humano; e
+XVI - solicitar aos prestadores de serviço as informações sobre os produtos químicos utilizados no tratamento de água para consumo humano e sobre os materiais que tenham contato com a água para consumo humano durante sua produção, armazenamento e distribuição.
+Parágrafo único. Caso a autoridade de saúde não se manifeste no prazo determinado no Inciso VIII, importará a aprovação tácita do plano de amostragem até manifestação em contrário.
+Seção V - Do responsável pelo sistema ou por solução alternativa coletiva de abastecimento de água para consumo humano
+Art. 14 Compete ao responsável por SAA ou SAC:
+I - exercer o controle da qualidade da água para consumo humano;
+II - operar e manter as instalações destinadas ao abastecimento de água potável em conformidade com as normas técnicas da Associação Brasileira de Normas Técnicas (ABNT) e demais normas pertinentes;
+III - fornecer água para consumo humano;
+IV - encaminhar à autoridade de saúde pública, anualmente e sempre que solicitado, o plano de amostragem de cada SAA e SAC, elaborado conforme Art. 44 deste Anexo, para avaliação da vigilância;
+V - realizar o monitoramento da qualidade da água, conforme plano de amostragem definido para cada sistema e solução alternativa coletiva de abastecimento de água;
+VI - promover capacitação e atualização técnica dos profissionais que atuam na produção, distribuição, armazenamento, transporte e controle da qualidade da água para consumo humano;
+VII - exigir dos fornecedores na aquisição, comprovação de que os materiais utilizados na produção, armazenamento e distribuição não alteram a qualidade da água e não ofereçam risco à saúde, segundo critérios da ANSI/NSF 61 ou certificação do material por um Organismo de Certificação de Produto (OCP) reconhecido pelo INMETRO;
+VIII - exigir dos fornecedores, laudo de atendimento dos requisitos de saúde (LARS) e da comprovação de baixo risco a saúde (CBRS), para o controle de qualidade dos produtos químicos utilizados no tratamento da água, considerando a norma técnica da ABNT NBR 15.784;
+IX - manter à disposição da autoridade de saúde dos Estados, do Distrito Federal e dos Municípios as informações sobre os produtos químicos utilizados no tratamento de água para consumo humano e sobre os materiais que tenham contato com a água para consumo humano durante sua produção, armazenamento e distribuição;
+X - manter avaliação sistemática do SAA ou SAC, sob a perspectiva dos riscos à saúde, com base nos seguintes critérios:
+1 - ocupação da bacia contribuinte ao manancial;
+2 - histórico das características das águas;
+3 - características físicas do sistema;
+5 - condições de operação e manutenção; e
+6 - qualidade da água distribuída;
+XI - encaminhar à autoridade de saúde pública dos Estados, do Distrito Federal e dos Municípios os dados de cadastro das formas de abastecimento e os relatórios de controle da qualidade da água, conforme o modelo estabelecido pela referida autoridade;
+XII - registrar no Sisagua os dados de cadastro das formas de abastecimento e de controle da qualidade da água, quando acordado com a Secretaria de Saúde;
+XIII - fornecer à autoridade de saúde pública dos Estados, do Distrito Federal e dos Municípios os dados de controle da qualidade da água para consumo humano, quando solicitados;
+XIV - comunicar aos órgãos ambientais e aos gestores de recursos hídricos as características da qualidade da água do(s) manancial(ais) de abastecimento em desacordo com os limites ou condições da respectiva classe de enquadramento, conforme definido na legislação específica vigente;
+XV - comunicar à autoridade de saúde pública alterações na qualidade da água do(s) manancial(ais) de abastecimento que revelem risco a saúde;
+XVI - contribuir com os órgãos ambientais e gestores de recursos hídricos, por meio de ações cabíveis para proteção do(s) manancial(ais) de abastecimento(s) e da(s) bacia(s) hidrográfica(s);
+XVII - proporcionar mecanismos para recebimento de reclamações, e manter registros atualizados sobre a qualidade da água distribuída e sobre as limpezas de reservatórios, sistematizando-os de forma compreensível aos consumidores e disponibilizando-os para pronto acesso e consulta pública, em atendimento às legislações específicas de defesa do consumidor e acesso à informação;
+XVIII - implementar as ações de sua competência descritas no Decreto nº 5.440, de 4 de maio de 2005, ou em instrumento legal que venha substituí-lo;
+XIX - exigir do responsável pelo carro-pipa, a autorização para transporte e fornecimento de água para consumo humano emitida pela autoridade de saúde pública, quando o carro-pipa não pertencer ao próprio responsável pelo SAA ou SAC, nos termos do inciso V do artigo 13 deste Anexo;
+XX - fornecer ao responsável pelo carro-pipa, no momento do abastecimento de água, documento com identificação do SAA ou SAC onde o carro-pipa foi abastecido, contendo a data e o horário do abastecimento;
+XXI - notificar previamente à autoridade de saúde pública e informar à respectiva entidade reguladora e à população abastecida, quando houver operações programadas, que possam submeter trechos do sistema de distribuição à pressão negativa ou intermitência;
+XXII - comunicar imediatamente à autoridade de saúde pública municipal e informar à população abastecida, em linguagem clara e acessível, a detecção de situações de risco à saúde ocasionadas por anomalia operacional ou por não conformidade na qualidade da água, bem como as medidas adotadas;
+XXIII - assegurar pontos de amostragem:
+1 - na saída de cada filtro ou após a mistura da água filtrada, caso seja comprovado o impedimento da realização do monitoramento individual de cada unidade filtrante;
+2 - na saída do tratamento;
+3 - no(s) reservatório(s);
+4 - na rede de distribuição; e
+5 - nos pontos de captação.
+Art. 15 O responsável por SAA ou SAC deve requerer, junto à Autoridade de Saúde Pública Municipal, autorização para início da operação e fornecimento de água para consumo humano, mediante a apresentação dos seguintes documentos:
+I - anotação de Responsabilidade Técnica do responsável pela operação do sistema ou solução alternativa coletiva;
+II - comprovação de regularidade junto ao órgão ambiental e de recursos hídricos;
+III - laudo de análise dos parâmetros de qualidade da água previstos neste Anexo; e
+IV - plano de amostragem.
+Seção VI - Do responsável pela distribuição e transporte de água potável por meio de carro-pipa
+Art. 16 Compete ao responsável pela distribuição e transporte de água potável por meio de carro-pipa:
+I - solicitar à autoridade de saúde pública autorização para transporte de água para consumo humano e cadastramento do carro-pipa;
+II - abastecer o carro-pipa exclusivamente com água potável, proveniente de sistema ou solução alternativa coletiva de abastecimento de água;
+III - manter as condições higiênico-sanitárias do carro-pipa exigidas pela autoridade de saúde pública;
+IV - utilizar tanques, válvulas e equipamentos de carga e descarga da água exclusivamente para armazenamento e transporte de água potável, fabricados em materiais que não alteram a qualidade da água;
+V - portar o documento exigido no Inciso XIX, Art. 14 deste Anexo e a autorização para transporte de água potável emitida pela autoridade de saúde pública, durante o deslocamento do carro-pipa;
+VI - manter o teor mínimo de cloro residual livre de 0,5 mg/L; e
+VII - garantir que o tanque utilizado para o transporte de água potável contenha, de forma visível, a inscrição "ÁGUA POTÁVEL" e os dados de endereço e telefone para contato.
+Parágrafo único. É vedado o transporte de água potável em carro-pipa com tanque compartimentado utilizado para transporte de outras cargas.
+Seção VII - Dos Laboratórios de Controle e Vigilância
+Art. 17 Compete ao Ministério da Saúde:
+I - coordenar, em âmbito nacional, as ações de laboratório necessárias para a vigilância da qualidade da água;
+II - habilitar os laboratórios de referência regional e nacional para operacionalização das análises da vigilância da qualidade da água para consumo humano, de acordo com os critérios estabelecidos na Portaria/SVS nº 33, de 22 de junho de 2017;
+III - indicar os laboratórios de referência nacional para realização das análises de vigilância da qualidade da água para consumo humano;
+IV - estabelecer as diretrizes para operacionalização das atividades analíticas de vigilância da qualidade da água para consumo humano; e
+V - definir os critérios e os procedimentos para adotar metodologias analíticas modificadas e não contempladas nas referências citadas no Art. 21.
+Art. 18 Compete às Secretarias de Saúde dos Estados:
+I - coordenar, em âmbito estadual, as ações laboratoriais, sob sua competência, necessárias para a vigilância da qualidade da água, de forma articulada com a Rede Nacional de Laboratórios de Saúde Pública;
+II - habilitar os laboratórios de referência regional e municipal para operacionalização das análises de vigilância da qualidade da água para consumo humano;
+III - indicar os laboratórios de referência regional e municipal para realização das análises de vigilância da qualidade da água para consumo humano; e
+IV - encaminhar amostras para laboratórios da Rede Nacional de Laboratórios de Saúde Pública e Centros Colaboradores quando não houver capacidade local de análise.
+Art. 19 Compete às Secretarias de Saúde dos Municípios:
+I - coordenar e executar, em âmbito municipal, as ações de laboratório sob sua competência, necessárias para a vigilância da qualidade da água, de forma articulada com a Rede Nacional de Laboratórios de Saúde Pública; e
+II - indicar, para as Secretarias de Saúde dos Estados, outros laboratórios de referência municipal para operacionalização das análises de vigilância da qualidade da água para consumo humano, quando for o caso.
+Art. 20 As análises laboratoriais para controle da qualidade da água para consumo humano podem ser realizadas em laboratório próprio, conveniado ou contratado, desde que estes comprovem a existência de boas práticas de laboratório e biossegurança, conforme normas da Agência Nacional de Vigilância Sanitária e demais normas relacionadas, e comprovem a existência de sistema de gestão da qualidade, conforme os requisitos especificados na NBR ISO/IEC 17025.
+Art. 21 As análises laboratoriais para vigilância da qualidade da água para consumo humano devem ser realizadas nos laboratórios de saúde pública.
+Parágrafo único. De forma complementar, as análises laboratoriais de vigilância da qualidade da água para consumo humano poderão ser realizadas em laboratórios conveniados ou contratados, desde que estes comprovem a existência de boas práticas de laboratório e biossegurança, conforme normas da Agência Nacional de Vigilância Sanitária e demais normas relacionadas, e comprovem a existência de sistema de gestão da qualidade, conforme os requisitos especificados na NBR ISO/IEC 17025.
+Art. 22 As metodologias analíticas para determinação dos parâmetros previstos neste Anexo devem atender às normas nacionais ou internacionais mais recentes, tais como:
+I - Standard Methods for the Examination of Water and Wastewater, de autoria das instituições American Public Health Association (APHA), American Water Works Association (AWWA) e Water Environment Federation (WEF);
+II - United States Environmental Protection Agency (USEPA);
+III - Normas publicadas pela International Standartization Organization (ISO); e
+IV - Metodologias propostas pela Organização Mundial à Saúde (OMS).
+§ 1º O Limite de quantificação (LQ) das metodologias utilizadas deve ser menor ou igual ao valor máximo permitido para cada parâmetro analisado.
+§ 2º Os Limites de detecção (LD) e quantificação (LQ) devem ser inseridos no Sisagua.
+§ 3º Outras metodologias que não estejam relacionadas nas normas citadas no caput deste artigo podem ser utilizadas desde que sejam devidamente validadas e registradas conforme os requisitos especificados na NBR ISO/IEC 17025.
+CAPÍTULO IV - DAS EXIG&Ecirc;NCIAS APLICÁVEIS AOS SISTEMAS E SOLUÇÕES ALTERNATIVAS COLETIVAS DE ABASTECIMENTO DE ÁGUA PARA CONSUMO HUMANO
+Art. 23 Os sistemas e as soluções alternativas coletivas de abastecimento de água para consumo humano devem contar com técnico habilitado responsável pela operação, com a respectiva anotação de responsabilidade técnica (ART) expedida pelo Conselho de Classe.
+Art. 24 Toda água para consumo humano fornecida coletivamente deverá passar por processo de desinfecção ou adição de desinfetante para manutenção dos residuais mínimos, conforme as disposições contidas no Art. 32.
+Parágrafo único. As águas provenientes de manancial superficial devem ser submetidas a processo de filtração.
+Art. 25 A rede de distribuição de água para consumo humano deve ser operada sempre com:
+I - pressão positiva em toda sua extensão;
+II - regularidade de fornecimento evitando situações de paralisação e intermitências; e
+III - práticas de desinfecção das tubulações em eventos de trocas de suas seções.
+Art. 26 A instalação hidráulica predial ligada ao sistema de abastecimento de água não poderá ser também alimentada por outras fontes.
+CAPÍTULO V - DO PADRÃO DE POTABILIDADE
+Art. 27 A água potável deve estar em conformidade com padrão microbiológico, conforme disposto nos Anexos 1 a 8 e demais disposições deste Anexo.
+§ 1º No controle da qualidade da água, quando forem detectadas amostras com resultado positivo para coliformes totais, mesmo em ensaios presuntivos, ações corretivas devem ser adotadas pelo responsável pelo SAA ou SAC e novas amostras devem ser coletadas em dias imediatamente sucessivos até que revelem resultados satisfatórios.
+§ 2º Nos sistemas de distribuição, as novas amostras devem incluir no mínimo uma recoleta no ponto onde foi constatado o resultado positivo para coliformes totais e duas amostras extras, sendo uma à montante e outra à jusante do local da recoleta.
+§ 3º As recoletas não devem ser consideradas no cálculo do percentual mensal de amostras com resultados positivos de coliformes totais.
+§ 4º O resultado negativo para coliformes totais das recoletas não anula o resultado originalmente positivo no cálculo dos percentuais de amostras com resultado positivo.
+§ 5º Não são tolerados resultados positivos que ocorram em recoleta, nos termos do § 1º do Art. 27.
+§ 6º Quando o padrão bacteriológico estabelecido no Anexo 1 for violado, o responsável pelo SAA ou SAC deve informar à autoridade de saúde pública as medidas corretivas adotadas.
+§ 7º Quando houver interpretação duvidosa nas reações típicas dos ensaios analíticos na determinação de coliformes totais e Escherichia coli, deve-se fazer a recoleta.
+Art. 28 Para a garantia da qualidade microbiológica da água, em complementação às exigências relativas aos indicadores microbiológicos, deve ser atendido o padrão de turbidez expresso no Anexo 2 e devem ser observadas as demais exigências contidas neste Anexo.
+§ 1º Entre os 5% (cinco por cento) dos valores permitidos de turbidez superiores ao VMP estabelecido no Anexo 2 para água subterrânea, pós-desinfecção, o limite máximo para qualquer amostra pontual deve ser de 5,0 uT.
+§ 2º Em toda a extensão do sistema de distribuição (reservatório e rede) ou pontos de consumo deverá atender ao VMP de 5,0 uT para turbidez.
+§ 3º O atendimento do percentual de aceitação do limite de turbidez, expresso no Anexo 2, deve ser verificado mensalmente com base em amostras coletadas no efluente individual de cada unidade de filtração, no mínimo semanalmente para pós-desinfecção de água subterrânea, no mínimo diariamente para filtração lenta e a cada duas horas para filtração rápida ou filtração em membranas.
+§ 4º Caso seja comprovado o impedimento da realização do monitoramento individual de cada unidade filtrante, poderá ser realizado o monitoramento na mistura do efluente dos diferentes filtros.
+Art. 29 Os sistemas e soluções alternativas coletivas de abastecimento de água que utilizam mananciais superficiais devem realizar monitoramento mensal de Escherichia coli no(s) ponto(s) de captação de água.
+§ 1º Quando for identificada média geométrica móvel dos últimos 12 meses de monitoramento maior ou igual a 1.000 Escherichia coli/100mL, deve-se avaliar a eficiência de remoção da Estação de Tratamento de Água (ETA) por meio do monitoramento semanal de esporos de bactérias aeróbias.
+§ 2º A amostragem para o monitoramento semanal de esporos de bactérias aeróbias citada no § 1º deste artigo deve ser realizada na água bruta na entrada da ETA e na água filtrada, no efluente individual de cada unidade de filtração.
+§ 3º O monitoramento para avaliação da eficiência de remoção de esporos de bactérias aeróbias na ETA deve ser mantido semanalmente, enquanto permanecerem as condições estabelecidas no § 1º deste artigo.
+§ 4º Quando a média aritmética da avaliação da eficiência de remoção da ETA, com base no mínimo em 4 amostragens no mês, for inferior a 2,5 log (99,7%), deve ser realizado monitoramento de cistos de Giardia spp. e oocistos de Cryptosporidium spp. em cada ponto de captação de água com frequência mensal ao longo dos 12 meses seguintes.
+§ 5º Sistemas e soluções alternativas coletivas de abastecimento de água que realizam pré-oxidação devem proceder ao monitoramento de (oo)cistos de Cryprosporidium e Giardia quando identificada média geométrica móvel maior ou igual a 1.000 Escherichia coli/100mL.
+§ 6º Uma vez iniciado o monitoramento de (oo)cistos, pode ser interrompido o monitoramento de esporos de bactérias aeróbias.
+§ 7º Quando a média aritmética da concentração de oocistos de Cryptosporidium spp. for maior ou igual a 1,0 oocisto/L no(s) pontos(s) de captação de água, deve-se obter efluente em filtração rápida com valor de turbidez menor ou igual a 0,3 uT em 95% (noventa e cinco por cento) das amostras mensais ou uso de processo de desinfecção que comprovadamente alcance a mesma eficiência de remoção de oocistos.
+§ 8º Entre os 5% (cinco por cento) das amostras que podem apresentar valores de turbidez superiores a 0,3 uT o limite máximo para qualquer amostra pontual deve ser menor ou igual a 1,0 uT para filtração rápida.
+§ 9º Caso a concentração de oocistos seja inferior a 1 oocisto/L e a média geométrica móvel se mantenha superior ou igual a 1.000 Escherichia coli/100mL deve-se realizar o monitoramento de esporos de bactérias aeróbias pelo período de um ano.
+§ 10º A concentração média de oocistos de Cryptosporidium spp., referida no § 7º deste Art., deve ser calculada considerando um número mínimo de 12 (doze) amostras uniformemente coletadas ao longo dos 12 meses de monitoramento.
+§ 11º Havendo comprovação de que todos os filtros rápidos do sistema de tratamento produzam água com turbidez inferior a 0,3 uT, de maneira sistemática, dispensa-se a realização dos ensaios exigidos neste artigo.
+§ 12º Para SAA e SAC com tratamento por filtração em membrana, deve-se obter um efluente filtrado com turbidez menor ou igual a 0,1 uT em pelo menos 99% das medições realizadas no mês.
+Art. 30 Para sistemas e soluções alternativas coletivas de abastecimento de água com captação em mananciais superficiais, no controle do processo de desinfecção da água por meio da cloração, cloraminação, da aplicação de dióxido de cloro ou de isocianuratos clorados devem ser observados os tempos de contato e as concentrações residuais de desinfetante na saída do tanque de contato, em função, quando cabível, dos valores de pH e temperatura, expressos nos Anexos 3, 4 e 5.
+§ 1º Para aplicação dos Anexos 3, 4 e 5 deve-se considerar a temperatura média mensal da água.
+§ 2º No caso da desinfecção com o uso de ozônio, deve ser observado o produto concentração e tempo de contato (CT) de 0,34 mg.min/L para temperatura média mensal da água igual a 15º C.
+§ 3º Para valores de temperatura média da água diferentes de 15ºC, deve-se proceder aos seguintes cálculos para desinfecção com ozônio:
+I - para valores de temperatura média abaixo de 15ºC: duplicar o valor de CT a cada decréscimo de 10ºC; e
+II - para valores de temperatura média acima de 15ºC: dividir por dois o valor de CT a cada acréscimo de 10ºC.
+§ 4º No caso da desinfecção por radiação ultravioleta, deve ser observada a dose mínima de 2,1 mJ/cm2para 1,0 log (90%) de inativação de cistos de Giardia spp.
+Art. 31 Os sistemas ou soluções alternativas coletivas de abastecimento de água supridas por manancial subterrâneo com ausência de contaminação por Escherichia coli devem adicionar agente desinfetante, conforme as disposições contidas no Art. 32.
+§ 1º Quando o manancial subterrâneo apresentar contaminação por Escherichia coli, no controle do processo de desinfecção da água por meio da cloração, cloraminação, da aplicação de dióxido de cloro ou de isocianuratos clorados, devem ser observados os tempos de contato e as concentrações residuais de desinfetante na saída do tanque de contato, em função, quando cabível, dos valores de pH e temperatura, expressos nos Anexos 6, 7 e 8 deste Anexo.
+§ 2º No caso da desinfecção por radiação ultravioleta, deve ser observada a dose mínima de 1,5 mJ/cm2.
+§ 3º No caso da desinfecção com o uso de ozônio, deve ser observado o produto, concentração e tempo de contato (CT) de 0,16 mg.min/L para temperatura média da água igual a 15ºC.
+§ 4º Para valores de temperatura média da água diferentes de 15ºC, deve-se proceder aos seguintes cálculos para desinfecção com ozônio:
+I - para valores de temperatura média abaixo de 15ºC: duplicar o valor de CT a cada decréscimo de 10ºC; e
+II - para valores de temperatura média acima de 15ºC: dividir por dois o valor de CT a cada acréscimo de 10ºC.
+§ 5º A avaliação da contaminação por Escherichia coli no manancial subterrâneo deve ser feita mediante coleta mensal de uma amostra de água em ponto anterior ao local de desinfecção.
+§ 6º Na ausência de tanque de contato, a coleta de amostras de água para a verificação da presença/ausência de coliformes totais em SAA e SAC, supridos por manancial subterrâneo, deverá ser realizada em local a montante ao primeiro ponto de consumo.
+§ 7º Caso o SAA ou SAC seja suprido também por manancial superficial, deverá seguir as exigências para desinfecção deste tipo de manancial.
+Art. 32 É obrigatória a manutenção de, no mínimo, 0,2 mg/L de cloro residual livre ou 2 mg/L de cloro residual combinado ou de 0,2 mg/L de dióxido de cloro em toda a extensão do sistema de distribuição (reservatório e rede) e nos pontos de consumo.
+Art. 33 No caso do uso de ozônio ou radiação ultravioleta como desinfetante, deverá ser adicionado cloro ou dióxido de cloro, de forma a manter residual mínimo no sistema de distribuição (reservatório e rede) e no ponto de consumo, de acordo com as disposições do Art. 32.
+Art. 34 A aplicação de compostos isocianuratos clorados deve seguir as diretrizes para utilização de cloro residual livre.
+Art. 35 Para a utilização de outro agente desinfetante, além dos citados neste Anexo, deve-se consultar o Ministério da Saúde, por intermédio da SVS/MS.
+Art. 36 A água potável deve estar em conformidade com o padrão de substâncias químicas que representam risco à saúde e cianotoxinas, expressos nos Anexos 9 e 10 e demais disposições deste Anexo.
+§ 1º No caso de adição de flúor (fluoretação), os valores recomendados para concentração de íon fluoreto devem observar o anexo XXI da Portaria de Consolidação nº 5/2017, não podendo ultrapassar o VMP expresso no Anexo 9 deste Anexo.
+§ 2º O VMP de cada cianotoxina referida no Anexo 10 é referente à concentração total, considerando as frações intracelular e extracelular.
+Art. 37 Os níveis de triagem usados na avaliação da potabilidade da água, do ponto de vista radiológico, são os valores de concentração de atividade que não excedam 0,5 Bq/L para atividade alfa total e 1,0 Bq/L para beta total.
+§ 1º Caso os níveis de triagem de beta total sejam superados, deverá ser subtraída a contribuição do emissor beta K-40 (isótopo de Potássio com massa atômica 40 u).
+§ 2º Caso as concentrações de atividades de alfa ou de beta total, após a subtração do K-40, permaneçam acima dos níveis de triagem citados neste artigo, outra amostra deverá ser coletada e analisada para alfa e beta total.
+§ 3º Se os novos valores obtidos continuarem acima dos níveis de triagem, consultar regulamento específico (POSIÇÃO REGULATÓRIA 3.01/012:2020) da Comissão Nacional de Energia Nuclear (CNEN) para saber como proceder nessa situação.
+§ 4º A CNEN poderá solicitar à análise específica de radionuclídeos naturais e/ou artificiais potencialmente presentes na água, assim como outras informações relevantes, conforme especificado em sua POSIÇÃO REGULATÓRIA 3.01/012:2020.
+§ 5º A CNEN avaliará sobre a potabilidade do ponto de vista radiológico, com base na dose total estimada devido à ingestão de água contendo todos os radionuclídeos presentes.
+§ 6º Até que a CNEN avalie a potabilidade da água do ponto de vista radiológico, nenhuma medida de restrição ao abastecimento com base no aspecto radiológico deve ser adotada, considerando as elevadas incertezas que podem estar associadas às técnicas para determinação de alfa e beta total.
+§ 7º A amostra para avaliação radiológica deve ser coletada semestralmente na rede de distribuição de SAA ou no ponto de consumo de SAC.
+Art. 38 A água potável deve estar em conformidade com o padrão organoléptico de potabilidade expresso no Anexo 11 e demais disposições deste Anexo.
+Paragráfo único. Para os parâmetros ferro e manganês são permitidos valores superiores ao VMPs estabelecidos no Anexo 11, desde que sejam observados os seguintes critérios:
+I - os elementos ferro e manganês estejam complexados com produtos químicos comprovadamente de baixo risco à saúde, conforme preconizado no Inciso VIII do Art. 14 e nas normas da ABNT; e
+II - as concentrações de ferro e manganês não ultrapassem 2,4 e 0,4 mg/L, respectivamente.
+Art. 39 A soma das razões das concentrações de nitrito e nitrato e seus respectivos VMPs, estabelecidos no Anexo 9, não deve exceder 1.
+§ 1º O critério definido no caput deste artigo é expresso pela seguinte inequação: (Concentração nitrato/VMP nitrato)+(Concentração nitrito/VMP nitrito) &pound;1.
+§ 2º O critério definido no caput deste artigo não exime o cumprimento dos VMP estabelecidos individualmente para nitrito e nitrato.
+Art. 40 O cumprimento do padrão de potabilidade de subprodutos da desinfecção deve ser verificado com base na média móvel dos resultados das amostras analisadas nos últimos doze meses, de acordo com o plano de amostragem definido neste Anexo.
+Parágrafo único. A média móvel de que trata o caput deste artigo deve ser computada individualmente para cada ponto de amostragem.
+Art. 41 Na verificação do atendimento ao padrão de potabilidade expresso nos Anexos 9 a 11, a comparação dos resultados analíticos com o VMP de parâmetros expressos pelo somatório de analitos individuais deve obedecer aos seguintes requisitos:
+I - caso pelo menos um analito seja quantificado, considerar, para a soma dos componentes com resultados menores que o LD ou o LQ, os valores de LD/2 e LQ/2, respectivamente;
+II - caso nenhum analito apresente resultado quantificado e pelo menos um analito seja menor que o LQ considerar o maior valor de LQ; e
+III - caso os resultados de todos os analitos sejam menores que o LD, considerar o maior valor de LD.
+Parágrafo único. O somatório dos LQ de todos os analitos individuais deve ser no máximo igual ao VMP estabelecido para o somatório.
+CAPÍTULO VI - DOS PLANOS DE AMOSTRAGEM DE CONTROLE DA QUALIDADE DA ÁGUA PARA CONSUMO HUMANO
+Art. 42 Os responsáveis por SAA e SAC devem analisar pelo menos uma amostra semestral da água bruta em cada ponto de captação com vistas a uma gestão preventiva de risco.
+§ 1º Nos Sistemas e soluções alternativas coletivas de abastecimento de água para consumo humano, supridos por manancial superficial devem realizar análise dos parâmetros Demanda Química de Oxigênio (DQO), Demanda Bioquímica de Oxigênio (DBO), Oxigênio Dissolvido (OD), Turbidez, Cor Verdadeira, pH, Fósforo Total, Nitrogênio Amoniacal Total e dos parâmetros inorgânicos, orgânicos e agrotóxicos, exigidos neste Anexo.
+§ 2º Sistemas e soluções alternativas coletivas de abastecimento de água para consumo humano, supridos por manancial subterrâneo devem realizar análise dos parâmetros Turbidez, Cor Verdadeira, pH, Fósforo Total, Nitrogênio Amoniacal Total, condutividade elétrica e dos parâmetros inorgânicos, orgânicos e agrotóxicos, exigidos neste Anexo.
+Art. 43 Para minimizar os riscos de contaminação da água para consumo humano com cianotoxinas, os responsáveis por SAA ou SAC com captação em mananciais superficiais devem realizar monitoramento para identificação e contagem de células de cianobactérias, de acordo com a Tabela do Anexo 12, considerando, para efeito de alteração da frequência de monitoramento, o resultado da última amostragem.
+§ 1º Em complementação ao monitoramento do Anexo 12, deve ser realizada análise de clorofila-a no manancial, com frequência mensal, como indicador de potencial aumento da contagem de cianobactérias.
+I - Quando os resultados da análise prevista no § 1&deg; deste artigo revelarem que a concentração de clorofila-a é igual ou superior a 10 &mu;g/L, deve-se proceder a nova coleta de amostra para análise do fitoplâncton;
+II - Se a contagem de células de cianobactérias representar 10% ou mais do fitoplâncton, deve ser realizado monitoramento semanal de cianobactérias no manancial, no ponto de captação; e
+III - O monitoramento de clorofila-a descrito no § 1º deste Artigo pode ser substituído pelo monitoramento mensal de cianobactérias no ponto de captação, atendendo o limite de contagem de células de cianobactérias menor ou igual a 10.000 células/mL.
+§ 2º Quando a contagem de células de cianobactérias exceder 20.000 células/mL, deve-se realizar análise das cianotoxinas microcistinas, saxitoxinas e cilindrospermopsinas no ponto de captação com frequência no mínimo semanal:
+I - As análises de cianotoxinas no ponto de captação devem permanecer enquanto se mantiver contagem de células de cianobactérias superior a 20.000 células/mL.
+§ 3º Alternativamente ao monitoramento de cianobactérias pode ser realizado o monitoramento semanal de cianotoxinas na água bruta (entrada da ETA).
+I - Quando o monitoramento de cianotoxinas for realizado semanalmente na água bruta, fica dispensada a realização do monitoramento de cianobactérias e clorofila-a no ponto de captação.
+§ 4º Quando a análise de cianotoxinas realizada na água bruta (entrada da ETA) ou em pelo menos um ponto de captação for superior ao VMP expresso no Anexo 10, será obrigatória a realização da análise de cianotoxinas na saída do tratamento com frequência semanal.
+§ 5º Quando a análise de cianotoxinas na água bruta (entrada da ETA) ou em todos os pontos de captação for inferior ao VMP expresso no Anexo 10, será dispensada a realização desta análise na saída do tratamento.
+§ 6º O monitoramento de cianobactérias, quando exigido, deve ser realizado em cada ponto de captação e deve identificar os gêneros presentes.
+§ 7º Em função dos riscos à saúde associados às cianotoxinas, é vedado o uso de algicidas para o controle do crescimento de microalgas e cianobactérias no manancial de abastecimento ou qualquer intervenção que provoque a lise das células.
+§ 8º As autoridades ambientais e de recursos hídricos definirão a regulamentação das excepcionalidades sobre o uso de algicidas nos cursos d'água superficiais.
+§ 9º Quando detectada a presença de cianotoxinas na água tratada, na saída do tratamento, será obrigatória a comunicação imediata a autoridade de saúde pública, às clínicas de hemodiálise e às indústrias de injetáveis.
+Art. 44 Os responsáveis por SAA e SAC devem elaborar anualmente e submeter para análise da autoridade municipal de saúde pública, o plano de amostragem de cada sistema e solução, respeitando os planos mínimos de amostragem expressos neste Anexo.
+§ 1º A amostragem deve obedecer aos seguintes requisitos:
+I - distribuição uniforme das coletas ao longo do período de um ano;
+II - representatividade dos pontos de coleta no sistema de distribuição (reservatórios e rede), combinando critérios de abrangência espacial e pontos estratégicos, entendidos como:
+1. aqueles próximos a grande circulação de pessoas: terminais rodoviários, terminais ferroviários, entre outros;
+2. edifícios que alberguem grupos populacionais de risco, tais como hospitais, creches, asilos e presídios;
+3. aqueles localizados em trechos vulneráveis do sistema de distribuição como pontas de rede, pontos de queda de pressão, locais afetados por manobras, sujeitos à intermitência de abastecimento, reservatórios, entre outros; e
+4 . locais com sistemáticas notificações de agravos à saúde tendo como possíveis causas os agentes de veiculação hídrica.
+§ 2º No número mínimo de amostras coletadas na rede de distribuição e no ponto de consumo, previsto no Anexo 14 e no Anexo 15, não se incluem as amostras extras (recoletas).
+§ 3º Em todas as amostras coletadas para análises bacteriológicas, deve ser efetuada medição de cor, turbidez e residual de desinfetante.
+§ 4º As coletas de amostras para análise dos parâmetros de agrotóxicos deverão considerar a avaliação dos seus usos na bacia hidrográfica do manancial de contribuição, bem como a sazonalidade das culturas.
+§ 5º Na verificação do atendimento ao padrão de potabilidade expressos nos Anexos 9 a 11, a detecção de eventuais ocorrências de resultados acima do VMP deve ser analisada em conjunto com o histórico do controle de qualidade da água.
+§ 6º O plano de amostragem deve abranger aglomerados subnormais e grupos sociais vulneráveis abastecidos.
+Art. 45 Para populações residentes em áreas indígenas e povos e comunidades tradicionais, o plano de amostragem para o controle da qualidade da água deverá ser elaborado de acordo com as diretrizes específicas aplicáveis a cada situação.
+Parágrafo único. O plano de amostragem para o monitoramento da qualidade da água em áreas indígenas deverá ser implementado de acordo com o Plano de Monitoramento da Qualidade da Água para Consumo Humano elaborado pelos Distritos Sanitários Especiais Indígenas (DSEI), considerando as diretrizes estabelecidas pela SESAI/MS.
+CAPÍTULO VII - DAS PENALIDADES
+Art. 46 Serão aplicadas as sanções previstas na Lei nº 6.437, de 20 de agosto de 1977, e na Lei nº 8.078, de 11 de setembro de 1990, além de normativas estaduais e municipais aplicáveis, aos responsáveis por SAA ou SAC que não observarem as determinações constantes neste Anexo, sem prejuízo das sanções de natureza civil ou penal cabíveis.
+Art. 47 Cabe ao Ministério da Saúde, por intermédio da SVS/MS, e às Secretarias de Saúde dos Estados, do Distrito Federal e dos Municípios, assegurar o cumprimento deste Anexo.
+CAPÍTULO VIII - DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS
+Art. 48 Sempre que forem identificadas situações de risco à saúde, os responsáveis pelo SAA ou SAC e as autoridades de saúde pública devem, em conjunto, elaborar um plano de ação e tomar as medidas cabíveis, incluindo a eficaz comunicação à população, sem prejuízo das providências imediatas para a correção das não conformidades.
+Art. 49 A Autoridade de Saúde Pública poderá exigir dos responsáveis por SAA e SAC a elaboração e implementação de Plano de Segurança da Água (PSA), conforme a metodologia e o conteúdo preconizados pela Organização Mundial da Saúde ou definidos em diretrizes do Ministério da Saúde, para fins de gestão preventiva de risco à saúde
+Art. 50 É facultado ao responsável por SAA ou SAC solicitar à autoridade de saúde pública alteração dos parâmetros monitorados e da frequência mínima de amostragem, mediante apresentação de:
+I - histórico mínimo de dois anos de monitoramento da qualidade da água bruta, tratada e distribuída, considerando o plano de amostragem estabelecido neste Anexo; e
+II - PSA, conforme Art. 49.
+§ 1º A autoridade de saúde pública deve emitir parecer sobre a solicitação prevista no caput deste Artigo, no prazo máximo de 120 (cento e vinte) dias, com base em análise fundamentada nos documentos referidos nos incisos I e II deste artigo.
+§ 2º As alterações do plano de amostragem autorizadas pela autoridade de saúde pública terão validade máxima de dois anos, podendo ser suspensa caso ocorram alterações na bacia hidrográfica ou nos sistemas e soluções alternativas coletivas de abastecimento de água que justifiquem.
+§ 3º Para renovação da autorização prevista no caput deste artigo, o responsável por SAA ou SAC deverá encaminhar à autoridade de saúde pública a solicitação de renovação acompanhada da revisão do PSA.
+§ 4º A autoridade de saúde pública deve emitir parecer sobre a solicitação de renovação, no prazo máximo de 60 (sessenta) dias, com base na análise da revisão do PSA.
+§ 5º Quando observada a não implementação do PSA por parte do responsável por SAA ou SAC, será exigido o cumprimento integral do plano de amostragem estabelecido neste Anexo.
+Art. 51 O Ministério da Saúde promoverá, por intermédio da SVS/MS, a revisão deste Anexo no prazo de 5 (cinco) anos ou a qualquer tempo.
+Parágrafo único. Os órgãos governamentais e não-governamentais, de reconhecida capacidade técnica nos setores objeto desta regulamentação, poderão requerer a revisão deste Anexo, mediante solicitação justificada, sujeita a análise técnica da SVS/MS.
+Art. 52 A União, os Estados, o Distrito Federal e os Municípios deverão adotar as medidas necessárias ao fiel cumprimento deste Anexo.
+Art. 53 Ao Distrito Federal competem as atribuições reservadas aos Estados e aos Municípios.
+Art. 54 Fica estabelecido o prazo máximo de 12 (doze) meses, contados a partir da data de publicação deste Anexo, para que os órgãos e entidades sujeitos à aplicação deste Anexo promovam as adequações necessárias à implementação do monitoramento de esporos de bactérias aeróbias.
+Art. 55 Fica estabelecido o prazo máximo de 24 (vinte e quatro) meses, contados a partir da data de publicação deste Anexo, para que os órgãos e entidades sujeitos à aplicação deste Anexo promovam as adequações necessárias para o alcance do novo VMP para o parâmetro dureza.
+Art. 56 Enquanto o monitoramento de esporos de bactérias aeróbias não estiver implantado, deve-se realizar o monitoramento de cistos de Giardia e oocistos de Cryptosporidium ao ser identificada média geométrica móvel dos últimos 12 (doze)meses de monitoramento maior ou igual a 1.000 Escherichia coli/100mL.
+ANEXO 1
+TABELA DE PADRÃO BACTERIOLÓGICO DA ÁGUA PARA CONSUMO HUMANO.
+Formas de abastecimento
+Parâmetro
+VMP(1)
+SAI
+Escherichia coli (2)
+Ausência em 100 mL
+SAA e SAC
+Na saída do tratamento
+Coliformes totais(3)
+Ausência em 100 mL
+Sistema de distribuição e pontos de consumo
+Escherichia coli (2)
+Ausência em 100 mL
+Coliformes totais(4)
+Sistemas ou soluções alternativas coletivas que abastecem menos de 20.000 habitantes
+Apenas uma amostra, entre as amostras examinadas no mês pelo responsável pelo sistema ou por solução alternativa coletiva de abastecimento de água, poderá apresentar resultado positivo
+Sistemas ou soluções alternativas coletivas que abastecem a partir de 20.000 habitantes
+Ausência em 100 mL em 95% das amostras examinadas no mês pelo responsável pelo sistema ou por solução alternativa coletiva de abastecimento de água.
+NOTAS:
+(1) Valor Máximo Permitido
+(2) Indicador de contaminação fecal.
+(3) Indicador de eficiência de tratamento.
+(4) Indicador da condição de operação e manutenção do sistema de distribuição de SAA e pontos de consumo e reservatório de SAC em que a qualidade da água produzida pelos processos de tratamento seja preservada (indicador de integridade).
+ANEXO 2
+TABELA DE PADRÃO DE TURBIDEZ PARA ÁGUA PÓS-DESINFECÇÃO (PARA ÁGUAS SUBTERR&Acirc;NEAS) OU PÓS-FILTRAÇÃO.
+Tratamento da água
+VMP(1)
+Número de amostras
+Frequência
+Filtração rápida (tratamento completo ou filtração direta)
+0,5 uT(2) em 95% das amostras. 1,0 uT no restante das amostras mensais coletadas.
+1
+A cada 2horas
+Filtração em Membrana
+0,1 uT(2) em 99% das amostras.
+1
+A cada 2horas
+Filtração lenta
+1,0 uT(2) em 95% das amostras. 2,0 uT no restante das amostras mensais coletadas.
+1
+Diária
+Pós-desinfecção (para águas subterrâneas)
+1,0 uT(2) em 95% das amostras. 5,0 uT no restante das amostras mensais coletadas.
+1
+Semanal
+NOTAS:
+(1) Valor Máximo Permitido
+(2)Unidade de Turbidez
+ANEXO 3
+TABELA DE TEMPO DE CONTATO MÍNIMO (MINUTOS) A SER OBSERVADO PARA A DESINFECÇÃO EM SISTEMAS E SOLUÇÕES ALTERNATIVAS COLETIVAS DE ABASTECIMENTO DE ÁGUA COM CAPTAÇÃO EM MANANCIAIS SUPERFICIAIS, DE ACORDO COM CONCENTRAÇÃO DE CLORO RESIDUAL LIVRE, COM A TEMPERATURA E O PH DA ÁGUA.
+C (1)
+Temperatura (5ºC )
+Temperatura (10ºC )
+Temperatura (15ºC )
+Valores de pH
+6,0
+6,5
+7,0
+7,5
+8,0
+8,5
+9,0
+6,0
+6,5
+7,0
+7,5
+8,0
+8,5
+9,0
+6,0
+6,5
+7,0
+7,5
+8,0
+8,5
+9,0
+0,1
+248
+308
+376
+452
+538
+633
+739
+175
+218
+266
+320
+380
+448
+522
+124
+154
+188
+226
+269
+317
+369
+0,2
+138
+171
+208
+251
+298
+351
+410
+97
+121
+147
+177
+211
+248
+290
+69
+85
+104
+125
+149
+176
+205
+0,3
+98
+121
+148
+178
+211
+249
+290
+69
+86
+104
+126
+150
+176
+205
+49
+60
+74
+89
+106
+124
+145
+0,4
+76
+95
+116
+139
+166
+195
+227
+54
+67
+82
+98
+117
+138
+161
+38
+47
+58
+70
+83
+97
+114
+0,5
+63
+78
+96
+115
+137
+161
+188
+45
+55
+68
+81
+97
+114
+133
+32
+39
+48
+58
+68
+81
+94
+0,6
+54
+67
+82
+99
+117
+138
+161
+38
+47
+58
+70
+83
+98
+114
+27
+34
+41
+49
+59
+69
+80
+0,7
+47
+59
+72
+87
+103
+121
+141
+34
+42
+51
+61
+73
+86
+100
+24
+29
+36
+43
+51
+61
+71
+0,8
+42
+53
+64
+77
+92
+108
+126
+30
+37
+45
+55
+65
+76
+89
+21
+26
+32
+39
+46
+54
+63
+0,9
+38
+48
+58
+70
+83
+98
+114
+27
+34
+41
+49
+59
+69
+81
+19
+24
+29
+35
+42
+49
+57
+1,0
+35
+43
+53
+64
+76
+89
+104
+25
+31
+38
+45
+54
+63
+74
+18
+22
+27
+32
+38
+45
+52
+1,1
+32
+40
+49
+59
+70
+82
+96
+23
+28
+35
+42
+50
+58
+68
+16
+20
+24
+29
+35
+41
+48
+1,2
+30
+37
+45
+55
+65
+77
+89
+21
+26
+32
+39
+46
+54
+63
+15
+19
+23
+27
+33
+38
+45
+1,3
+28
+35
+42
+51
+61
+72
+83
+20
+25
+30
+36
+43
+51
+59
+14
+17
+21
+26
+30
+36
+42
+1,4
+26
+33
+40
+48
+57
+67
+78
+19
+23
+28
+34
+40
+48
+55
+13
+16
+20
+24
+29
+34
+39
+1,5
+25
+31
+38
+45
+54
+63
+74
+18
+22
+27
+32
+38
+45
+52
+12
+15
+19
+23
+27
+32
+37
+1,6
+24
+29
+36
+43
+51
+60
+70
+17
+21
+25
+30
+36
+42
+49
+12
+15
+18
+21
+25
+30
+35
+1,7
+22
+28
+34
+41
+48
+57
+66
+16
+20
+24
+29
+34
+40
+47
+11
+14
+17
+20
+24
+28
+33
+1,8
+21
+26
+32
+39
+46
+54
+63
+15
+19
+23
+27
+33
+38
+45
+11
+13
+16
+19
+23
+27
+32
+1,9
+20
+25
+31
+37
+44
+52
+60
+14
+18
+22
+26
+31
+37
+43
+10
+13
+15
+19
+22
+26
+30
+2,0
+19
+24
+29
+35
+42
+50
+58
+14
+17
+21
+25
+30
+35
+41
+10
+12
+15
+18
+21
+25
+29
+2,1
+19
+23
+28
+34
+40
+48
+56
+13
+16
+20
+24
+29
+34
+39
+9
+12
+14
+17
+20
+24
+28
+2,2
+18
+22
+27
+33
+39
+46
+53
+13
+16
+19
+23
+27
+32
+38
+9
+11
+14
+16
+19
+23
+27
+2,3
+17
+21
+26
+31
+37
+44
+51
+12
+15
+18
+22
+26
+31
+36
+9
+11
+13
+16
+19
+22
+26
+2,4
+17
+21
+25
+30
+36
+43
+50
+12
+15
+18
+21
+26
+30
+35
+8
+10
+13
+15
+18
+21
+25
+2,5
+16
+20
+24
+29
+35
+41
+48
+11
+14
+17
+21
+25
+29
+34
+8
+10
+12
+15
+17
+21
+24
+2,6
+16
+19
+24
+28
+34
+40
+46
+11
+14
+17
+20
+24
+28
+33
+8
+10
+12
+14
+17
+20
+23
+2,7
+15
+19
+23
+27
+33
+38
+45
+11
+13
+16
+19
+23
+27
+32
+8
+9
+11
+14
+16
+19
+22
+2,8
+15
+18
+22
+27
+32
+37
+43
+10
+13
+16
+19
+22
+26
+31
+7
+9
+11
+13
+16
+19
+22
+2,9
+14
+18
+21
+26
+31
+36
+42
+10
+12
+15
+18
+22
+26
+30
+7
+9
+11
+13
+15
+18
+21
+3,0
+14
+17
+21
+25
+30
+35
+41
+10
+12
+15
+18
+21
+25
+29
+7
+9
+10
+13
+15
+18
+20
+C(1)
+Temperatura (20ºC )
+Temperatura (25ºC )
+Temperatura (30ºC )
+Valores de pH
+6,0
+6,5
+7,0
+7,5
+8,0
+8,5
+9,0
+6,0
+6,5
+7,0
+7,5
+8,0
+8,5
+9,0
+6,0
+6,5
+7,0
+7,5
+8,0
+8,5
+9,0
+0,1
+88
+109
+133
+160
+190
+224
+261
+62
+77
+94
+113
+134
+158
+185
+44
+54
+66
+80
+95
+112
+130
+0,2
+49
+60
+74
+89
+105
+124
+145
+34
+43
+52
+63
+75
+88
+102
+24
+30
+37
+44
+53
+62
+72
+0,3
+34
+43
+52
+63
+75
+88
+103
+24
+30
+37
+44
+53
+62
+73
+17
+21
+26
+31
+37
+44
+51
+0,4
+27
+33
+41
+49
+59
+69
+80
+19
+24
+29
+35
+41
+49
+57
+13
+17
+20
+25
+29
+34
+40
+0,5
+22
+28
+34
+41
+48
+57
+66
+16
+20
+24
+29
+34
+40
+47
+11
+14
+17
+20
+24
+28
+33
+0,6
+19
+24
+29
+35
+41
+49
+57
+14
+17
+20
+25
+29
+35
+40
+10
+12
+14
+17
+21
+24
+28
+0,7
+17
+21
+25
+31
+36
+43
+50
+12
+15
+18
+22
+26
+30
+35
+8
+10
+13
+15
+18
+21
+25
+0,8
+15
+19
+23
+27
+32
+38
+45
+11
+13
+16
+19
+23
+27
+32
+7
+9
+11
+14
+16
+19
+22
+0,9
+14
+17
+21
+25
+29
+35
+40
+10
+12
+14
+17
+21
+24
+29
+7
+8
+10
+12
+15
+17
+20
+1,0
+12
+15
+19
+23
+27
+32
+37
+9
+11
+13
+16
+19
+22
+26
+6
+8
+9
+11
+13
+16
+18
+1,1
+11
+14
+17
+21
+25
+29
+34
+8
+10
+12
+15
+18
+21
+24
+6
+7
+9
+10
+12
+15
+17
+1,2
+11
+13
+16
+19
+23
+27
+32
+7
+9
+11
+14
+16
+19
+22
+5
+7
+8
+10
+11
+14
+16
+1,3
+10
+12
+15
+18
+21
+25
+29
+7
+9
+11
+13
+15
+18
+21
+5
+6
+7
+9
+11
+13
+15
+1,4
+9
+12
+14
+17
+20
+24
+28
+7
+8
+10
+12
+14
+17
+20
+5
+6
+7
+8
+10
+12
+14
+1,5
+9
+11
+13
+16
+19
+22
+26
+6
+8
+9
+11
+13
+16
+18
+4
+5
+7
+8
+10
+11
+13
+1,6
+8
+10
+13
+15
+18
+21
+25
+6
+7
+9
+11
+13
+15
+17
+4
+5
+6
+8
+9
+11
+12
+1,7
+8
+10
+12
+14
+17
+20
+23
+6
+7
+8
+10
+12
+14
+17
+4
+5
+6
+7
+9
+10
+12
+1,8
+8
+9
+11
+14
+16
+19
+22
+5
+7
+8
+10
+12
+14
+16
+4
+5
+6
+7
+8
+10
+11
+1,9
+7
+9
+11
+13
+16
+18
+21
+5
+6
+8
+9
+11
+13
+15
+4
+5
+7
+8
+9
+11
+2,0
+7
+9
+10
+13
+15
+18
+20
+5
+6
+7
+9
+11
+12
+14
+3
+4
+5
+6
+7
+9
+10
+2,1
+7
+8
+10
+12
+14
+17
+20
+5
+6
+7
+8
+10
+12
+14
+3
+4
+5
+6
+7
+8
+10
+2,2
+6
+8
+10
+12
+14
+16
+19
+4
+6
+7
+8
+10
+11
+13
+3
+4
+5
+6
+7
+8
+9
+2,3
+6
+8
+9
+11
+13
+16
+18
+4
+5
+7
+8
+9
+11
+13
+3
+4
+5
+6
+7
+8
+9
+2,4
+6
+7
+9
+11
+13
+15
+18
+4
+5
+6
+8
+9
+11
+12
+3
+4
+5
+6
+8
+9
+2,5
+6
+7
+9
+10
+12
+15
+17
+4
+5
+6
+7
+9
+10
+12
+3
+4
+5
+6
+7
+8
+2,6
+5
+7
+8
+10
+12
+14
+16
+4
+5
+6
+7
+8
+10
+12
+3
+4
+5
+6
+7
+8
+2,7
+5
+7
+8
+10
+12
+14
+16
+4
+5
+6
+7
+8
+10
+11
+3
+4
+5
+6
+7
+8
+2,8
+5
+6
+8
+9
+11
+13
+15
+4
+5
+6
+7
+8
+9
+11
+3
+4
+5
+6
+7
+8
+2,9
+5
+6
+8
+9
+11
+13
+15
+4
+5
+6
+8
+9
+11
+3
+4
+5
+6
+7
+3,0
+5
+6
+7
+9
+11
+12
+14
+3
+4
+5
+6
+7
+9
+10
+2
+3
+4
+5
+6
+7
+NOTAS:
+(1) C: residual de cloro livre na saída do tanque de contato (mg/L).
+ANEXO 4
+TABELA DE TEMPO DE CONTATO MÍNIMO (MINUTOS) A SER OBSERVADO PARA A DESINFECÇÃO EM SISTEMAS E SOLUÇÕES ALTERNATIVAS COLETIVAS DE ABASTECIMENTO DE ÁGUA COM CAPTAÇÃO EM MANANCIAIS SUPERFICIAIS, DE ACORDO COM CONCENTRAÇÃO DE CLORO RESIDUAL COMBINADO (CLORAMINAS) E COM A TEMPERATURA DA ÁGUA, PARA VALORES DE PH DA ÁGUA ENTRE 6,0 E 9,0.
+C (1)
+Temperatura (5ºC )
+Temperatura (10ºC )
+Temperatura (15ºC )
+Temperatura (20ºC )
+Temperatura (25ºC )
+Temperatura (30ºC )
+0,1
+7385
+6185
+4985
+3785
+2585
+1385
+0,2
+3693
+3093
+2493
+1893
+1293
+693
+0,3
+2462
+2062
+1662
+1262
+862
+462
+0,4
+1846
+1546
+1246
+946
+646
+346
+0,5
+1477
+1237
+997
+757
+517
+277
+0,6
+1231
+1031
+831
+631
+431
+231
+0,7
+1055
+884
+712
+541
+369
+198
+0,8
+923
+773
+623
+473
+323
+173
+0,9
+821
+687
+554
+421
+287
+154
+1,0
+739
+619
+499
+379
+259
+139
+1,1
+671
+562
+453
+344
+235
+126
+1,2
+615
+515
+415
+315
+215
+115
+1,3
+568
+476
+383
+291
+199
+107
+1,4
+528
+442
+356
+270
+185
+99
+1,5
+492
+412
+332
+252
+172
+92
+1,6
+462
+387
+312
+237
+162
+87
+1,7
+434
+364
+293
+223
+152
+81
+1,8
+410
+344
+277
+210
+144
+77
+1,9
+389
+326
+262
+199
+136
+73
+2,0
+369
+309
+249
+189
+129
+69
+2,1
+352
+295
+237
+180
+123
+66
+2,2
+336
+281
+227
+172
+118
+63
+2,3
+321
+269
+217
+165
+112
+60
+2,4
+308
+258
+208
+158
+108
+58
+2,5
+295
+247
+199
+151
+103
+55
+2,6
+284
+238
+192
+146
+99
+53
+2,7
+274
+229
+185
+140
+96
+51
+2,8
+264
+221
+178
+135
+92
+49
+2,9
+255
+213
+172
+131
+89
+48
+3,0
+246
+206
+166
+126
+86
+46
+NOTAS:
+(1) C: residual de cloro combinado na saída do tanque de contato (mg/L).
+ANEXO 5
+TABELA DE TEMPO DE CONTATO MÍNIMO (MINUTOS) A SER OBSERVADO PARA A DESINFECÇÃO EM SISTEMAS E SOLUÇÕES ALTERNATIVAS COLETIVAS DE ABASTECIMENTO DE ÁGUA COM CAPTAÇÃO EM MANANCIAIS SUPERFICIAIS, DE ACORDO COM CONCENTRAÇÃO DE DIÓXIDO DE CLORO E COM A TEMPERATURA DA ÁGUA.
+C (1)
+Temperatura (5ºC )
+Temperatura (10ºC )
+Temperatura (15ºC )
+Temperatura (20ºC )
+Temperatura (25ºC )
+Temperatura (30ºC )
+Temperatura (35ºC )
+0,1
+108
+77
+63
+55
+49
+45
+41
+0,2
+54
+38
+31
+27
+24
+22
+21
+0,3
+36
+26
+21
+18
+16
+15
+14
+0,4
+27
+19
+16
+14
+12
+11
+10
+0,5
+22
+15
+13
+11
+10
+9
+8
+0,6
+18
+13
+10
+9
+8
+7
+0,7
+15
+11
+9
+8
+7
+6
+0,8
+13
+10
+8
+7
+6
+5
+0,9
+12
+9
+7
+6
+5
+1,0
+11
+8
+6
+5
+4
+1,1
+10
+7
+6
+5
+4
+1,2
+9
+6
+5
+4
+3
+1,3
+8
+6
+5
+4
+3
+1,4
+8
+5
+4
+3
+1,5
+7
+5
+4
+3
+1,6
+7
+5
+4
+3
+1,7
+6
+5
+4
+3
+2
+1,8
+6
+4
+3
+2
+1,9
+6
+4
+3
+2
+2,0
+5
+4
+3
+2
+2,1
+5
+4
+3
+2
+2,2
+5
+3
+2
+2,3
+5
+3
+2
+2,4
+4
+3
+2
+2,5
+4
+3
+2
+2,6
+4
+3
+2
+2,7
+4
+3
+2
+2,8
+4
+3
+2
+1
+2,9
+4
+3
+2
+1
+3,0
+4
+3
+2
+1
+NOTAS:
+(1) C: residual de dióxido de cloro na saída do tanque de contato (mg/L).
+ANEXO 6
+TABELA DE TEMPO DE CONTATO MÍNIMO (MINUTOS) A SER OBSERVADO PARA A DESINFECÇÃO EM SISTEMAS E SOLUÇÕES ALTERNATIVAS COLETIVAS DE ABASTECIMENTO DE ÁGUA COM CAPTAÇÃO EM MANANCIAIS SUBTERR&Acirc;NEOS, DE ACORDO COM CONCENTRAÇÃO DE CLORO RESIDUAL LIVRE, COM A TEMPERATURA E O PH DA ÁGUA.
+C(1)
+Temperatura (5ºC )
+Temperatura (10ºC )
+Temperatura (15ºC )
+Valores de pH
+6,0
+6,5
+7,0
+7,5
+8,0
+8,5
+9,0
+6,0
+6,5
+7,0
+7,5
+8,0
+8,5
+9,0
+6,0
+6,5
+7,0
+7,5
+8,0
+8,5
+9,0
+0,1
+124
+154
+188
+226
+269
+317
+369
+88
+109
+133
+160
+190
+224
+261
+62
+77
+94
+113
+134
+158
+185
+0,2
+69
+85
+104
+125
+149
+176
+205
+49
+60
+74
+89
+106
+124
+145
+34
+43
+52
+63
+75
+88
+102
+0,3
+49
+60
+74
+89
+106
+124
+145
+34
+43
+52
+63
+75
+88
+103
+24
+30
+37
+44
+53
+62
+73
+0,4
+38
+47
+58
+70
+83
+97
+114
+27
+33
+41
+49
+59
+69
+80
+19
+24
+29
+35
+41
+49
+57
+0,5
+32
+39
+48
+58
+68
+81
+94
+22
+28
+34
+41
+48
+57
+66
+16
+20
+24
+29
+34
+40
+47
+0,6
+27
+34
+41
+49
+59
+69
+81
+19
+24
+29
+35
+41
+49
+57
+14
+17
+20
+25
+29
+35
+40
+0,7
+24
+29
+36
+43
+51
+61
+71
+17
+21
+25
+31
+36
+43
+50
+12
+15
+18
+22
+26
+30
+35
+0,8
+21
+26
+32
+39
+46
+54
+63
+15
+19
+23
+27
+32
+38
+45
+11
+13
+16
+19
+23
+27
+32
+0,9
+19
+24
+29
+35
+42
+49
+57
+14
+17
+21
+25
+29
+35
+40
+10
+12
+15
+17
+21
+24
+29
+1,0
+18
+22
+27
+32
+38
+45
+52
+12
+15
+19
+23
+27
+32
+37
+9
+11
+13
+16
+19
+22
+26
+1,1
+16
+20
+24
+29
+35
+41
+48
+11
+14
+17
+21
+25
+29
+34
+8
+10
+12
+15
+18
+21
+24
+1,2
+15
+19
+23
+27
+33
+38
+45
+11
+13
+16
+19
+23
+27
+32
+8
+9
+11
+14
+16
+19
+22
+1,3
+14
+17
+21
+26
+30
+36
+42
+10
+12
+15
+18
+21
+25
+30
+7
+9
+11
+13
+15
+18
+21
+1,4
+13
+16
+20
+24
+29
+34
+39
+9
+12
+14
+17
+20
+24
+28
+7
+8
+10
+12
+14
+17
+20
+1,5
+12
+15
+19
+23
+27
+32
+37
+9
+11
+13
+16
+19
+22
+26
+6
+8
+9
+11
+13
+16
+18
+1,6
+12
+15
+18
+21
+25
+30
+35
+8
+10
+13
+15
+18
+21
+25
+6
+7
+9
+11
+13
+15
+17
+1,7
+11
+14
+17
+20
+24
+28
+33
+8
+10
+12
+14
+17
+20
+23
+6
+7
+8
+10
+12
+14
+17
+1,8
+11
+13
+16
+19
+23
+27
+32
+8
+9
+11
+14
+16
+19
+22
+5
+7
+8
+10
+12
+14
+16
+1,9
+10
+13
+15
+19
+22
+26
+30
+7
+9
+11
+13
+16
+18
+21
+5
+6
+8
+9
+11
+13
+15
+2,0
+10
+12
+15
+18
+21
+25
+29
+7
+9
+10
+13
+15
+18
+20
+5
+6
+7
+9
+11
+12
+14
+2,1
+9
+12
+14
+17
+20
+24
+28
+7
+8
+10
+12
+14
+17
+20
+5
+6
+7
+8
+10
+12
+14
+2,2
+9
+11
+14
+16
+19
+23
+27
+6
+8
+10
+12
+14
+16
+19
+4
+6
+7
+8
+10
+11
+13
+2,3
+9
+11
+13
+16
+19
+22
+26
+6
+8
+9
+11
+13
+16
+18
+4
+5
+7
+8
+9
+11
+13
+2,4
+8
+10
+13
+15
+18
+21
+25
+6
+7
+9
+11
+13
+15
+18
+4
+5
+6
+8
+9
+11
+12
+2,5
+8
+10
+12
+15
+17
+21
+24
+6
+7
+9
+10
+12
+15
+17
+4
+5
+6
+7
+9
+10
+12
+2,6
+8
+10
+12
+14
+17
+20
+23
+5
+7
+8
+10
+12
+14
+16
+4
+5
+6
+7
+8
+10
+12
+2,7
+8
+9
+11
+14
+16
+19
+22
+5
+7
+8
+10
+12
+14
+16
+4
+5
+6
+7
+8
+10
+11
+2,8
+7
+9
+11
+13
+16
+19
+22
+5
+6
+8
+9
+11
+13
+15
+4
+5
+6
+7
+8
+9
+11
+2,9
+7
+9
+11
+13
+15
+18
+21
+5
+6
+8
+9
+11
+13
+15
+4
+5
+6
+8
+9
+11
+3,0
+7
+9
+10
+13
+15
+18
+21
+5
+6
+7
+9
+11
+12
+14
+3
+4
+5
+6
+7
+9
+10
+C (1)
+Temperatura (20ºC )
+Temperatura (25ºC )
+Temperatura (30ºC )
+Valores de pH
+6,0
+6,5
+7,0
+7,5
+8,0
+8,5
+9,0
+6,0
+6,5
+7,0
+7,5
+8,0
+8,5
+9,0
+6,0
+6,5
+7,0
+7,5
+8,0
+8,5
+9,0
+0,1
+44
+54
+66
+80
+95
+112
+130
+31
+38
+47
+56
+67
+79
+92
+22
+27
+33
+40
+48
+56
+65
+0,2
+24
+30
+37
+44
+53
+62
+72
+17
+21
+26
+31
+37
+44
+51
+12
+15
+18
+22
+26
+31
+36
+0,3
+17
+21
+26
+31
+37
+44
+51
+12
+15
+18
+22
+26
+31
+36
+9
+11
+13
+16
+19
+22
+26
+0,4
+13
+17
+20
+25
+29
+34
+40
+10
+12
+14
+17
+21
+24
+28
+7
+8
+10
+12
+15
+17
+20
+0,5
+11
+14
+17
+20
+24
+28
+33
+8
+10
+12
+14
+17
+20
+23
+6
+7
+8
+10
+12
+14
+17
+0,6
+10
+12
+14
+17
+21
+24
+28
+7
+8
+10
+12
+15
+17
+20
+5
+6
+7
+9
+10
+12
+14
+0,7
+8
+10
+13
+15
+18
+21
+25
+6
+7
+9
+11
+13
+15
+18
+4
+5
+6
+8
+9
+11
+12
+0,8
+7
+9
+11
+14
+16
+19
+22
+5
+7
+8
+10
+11
+14
+16
+4
+5
+6
+7
+8
+10
+11
+0,9
+7
+8
+10
+12
+15
+17
+20
+5
+6
+7
+9
+10
+12
+14
+3
+4
+5
+6
+7
+9
+10
+1,0
+6
+8
+9
+11
+13
+16
+18
+4
+5
+7
+8
+9
+11
+13
+3
+4
+5
+6
+7
+8
+9
+1,1
+6
+7
+9
+10
+12
+15
+17
+4
+5
+6
+7
+9
+10
+12
+3
+4
+5
+6
+7
+8
+1,2
+5
+7
+8
+10
+11
+14
+16
+4
+5
+6
+7
+8
+10
+11
+3
+4
+5
+6
+7
+8
+1,3
+5
+6
+8
+9
+11
+13
+15
+4
+5
+6
+8
+9
+10
+2
+3
+4
+5
+6
+7
+1,4
+5
+6
+7
+8
+10
+12
+14
+3
+4
+5
+6
+7
+8
+10
+2
+3
+4
+5
+6
+7
+1,5
+4
+5
+7
+8
+10
+11
+13
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+1,6
+4
+5
+6
+8
+9
+11
+12
+3
+4
+5
+6
+7
+9
+2
+3
+4
+5
+6
+1,7
+4
+5
+6
+7
+9
+10
+12
+3
+4
+5
+6
+7
+8
+2
+3
+4
+5
+6
+1,8
+4
+5
+6
+7
+8
+10
+11
+3
+4
+5
+6
+7
+8
+2
+3
+4
+5
+6
+1,9
+4
+5
+7
+8
+9
+11
+3
+4
+5
+6
+8
+2
+3
+4
+5
+2,0
+3
+4
+5
+6
+7
+9
+10
+2
+3
+4
+5
+6
+7
+2
+3
+4
+5
+2,1
+3
+4
+5
+6
+7
+8
+10
+2
+3
+4
+5
+6
+7
+2
+3
+4
+5
+2,2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+2
+3
+4
+5
+2,3
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+2
+3
+4
+5
+2,4
+3
+4
+5
+6
+8
+9
+2
+3
+4
+5
+6
+1
+2
+3
+4
+2,5
+3
+4
+5
+6
+7
+8
+2
+3
+4
+5
+6
+1
+2
+3
+4
+2,6
+3
+4
+5
+6
+7
+8
+2
+3
+4
+5
+6
+1
+2
+3
+4
+2,7
+3
+4
+5
+6
+7
+8
+2
+3
+4
+5
+6
+1
+2
+3
+4
+2,8
+3
+4
+5
+6
+7
+8
+2
+3
+4
+5
+1
+2
+3
+4
+2,9
+3
+4
+5
+6
+7
+2
+3
+4
+5
+1
+2
+3
+4
+3,0
+2
+3
+4
+5
+6
+7
+2
+3
+4
+5
+1
+2
+3
+4
+NOTAS:
+(1) C: residual de cloro livre na saída do tanque de contato (mg/L).
+ANEXO 7
+TABELA DE TEMPO DE CONTATO MÍNIMO (MINUTOS) A SER OBSERVADO PARA A DESINFECÇÃO EM SISTEMAS E SOLUÇÕES ALTERNATIVAS COLETIVAS DE ABASTECIMENTO DE ÁGUA COM CAPTAÇÃO EM MANANCIAIS SUBTERR&Acirc;NEOS, DE ACORDO COM CONCENTRAÇÃO DE CLORO RESIDUAL COMBINADO (CLORAMINAS) E COM A TEMPERATURA.
+C (1)
+Temperatura (5ºC )
+Temperatura (10ºC )
+Temperatura (15ºC )
+Temperatura (20ºC )
+Temperatura (25ºC )
+Temperatura (30ºC )
+Temperatura (35ºC )
+0,1
+3693
+3093
+2493
+1893
+1293
+693
+93
+0,2
+1846
+1546
+1246
+946
+646
+346
+46
+0,3
+1231
+1031
+831
+631
+431
+231
+31
+0,4
+923
+773
+623
+473
+323
+173
+23
+0,5
+739
+619
+499
+379
+259
+139
+19
+0,6
+615
+515
+415
+315
+215
+115
+15
+0,7
+528
+442
+356
+270
+185
+99
+13
+0,8
+462
+387
+312
+237
+162
+87
+12
+0,9
+410
+344
+277
+210
+144
+77
+10
+1,0
+369
+309
+249
+189
+129
+69
+9
+1,1
+336
+281
+227
+172
+118
+63
+8
+1,2
+308
+258
+208
+158
+108
+58
+8
+1,3
+284
+238
+192
+146
+99
+53
+7
+1,4
+264
+221
+178
+135
+92
+49
+7
+1,5
+246
+206
+166
+126
+86
+46
+6
+1,6
+231
+193
+156
+118
+81
+43
+6
+1,7
+217
+182
+147
+111
+76
+41
+5
+1,8
+205
+172
+138
+105
+72
+38
+5
+1,9
+194
+163
+131
+100
+68
+36
+5
+2,0
+185
+155
+125
+95
+65
+35
+5
+2,1
+176
+147
+119
+90
+62
+33
+4
+2,2
+168
+141
+113
+86
+59
+31
+4
+2,3
+161
+134
+108
+82
+56
+30
+4
+2,4
+154
+129
+104
+79
+54
+29
+4
+2,5
+148
+124
+100
+76
+52
+28
+4
+2,6
+142
+119
+96
+73
+50
+27
+4
+2,7
+137
+115
+92
+70
+48
+26
+3
+2,8
+132
+110
+89
+68
+46
+25
+3
+2,9
+127
+107
+86
+65
+45
+24
+3
+3,0
+123
+103
+83
+63
+43
+23
+3
+NOTAS:
+(1) C: residual de cloro combinado na saída do tanque de contato (mg/L).
+ANEXO 8
+TABELA DE TEMPO DE CONTATO MÍNIMO (MINUTOS) A SER OBSERVADO PARA A DESINFECÇÃO EM SISTEMAS E SOLUÇÕES ALTERNATIVAS COLETIVAS DE ABASTECIMENTO DE ÁGUA COM CAPTAÇÃO EM MANANCIAIS SUBTERR&Acirc;NEOS, DE ACORDO COM CONCENTRAÇÃO DE DIÓXIDO DE CLORO E COM A TEMPERATURA DA ÁGUA.
+C(1)
+Temperatura (5ºC)
+Temperatura (10ºC)
+Temperatura (15ºC)
+Temperatura (20ºC)
+Temperatura (25ºC)
+Temperatura (30ºC)
+Temperatura (35ºC)
+0,1
+53
+38
+31
+27
+24
+22
+21
+0,2
+27
+19
+16
+14
+12
+11
+10
+0,3
+18
+13
+10
+9
+8
+7
+0,4
+13
+10
+8
+7
+6
+5
+0,5
+11
+8
+6
+5
+4
+0,6
+9
+6
+5
+4
+3
+0,7
+8
+5
+4
+3
+0,8
+7
+5
+4
+3
+0,9
+6
+4
+3
+2
+1,0
+5
+4
+3
+2
+1,1
+5
+3
+2
+1,2
+4
+3
+2
+1,3
+4
+3
+2
+1,4
+4
+3
+2
+1
+1,5
+4
+3
+2
+1
+1,6
+3
+2
+1
+1,7
+3
+2
+1
+1,8
+3
+2
+1
+1,9
+3
+2
+1
+2,0
+3
+2
+1
+2,1
+3
+2
+1
+2,2
+2
+1
+2,3
+2
+1
+2,4
+2
+1
+2,5
+2
+1
+2,6
+2
+1
+2,7
+2
+1
+2,8
+2
+1
+2,9
+2
+1
+3,0
+2
+1
+NOTAS:
+(1) C: residual de dióxido de cloro na saída do tanque de contato (mg/L).
+ANEXO 9
+TABELA DE PADRÃO DE PO
+TABELA DE PADRÃO DE POTABILIDADE PARA SUBST&Acirc;NCIAS QUÍMICAS INORG&Acirc;NICAS QUE REPRESENTAM RISCO &Agrave; SAÚDE
+Parâmetro
+CAS(1)
+Unidade
+VMP(2)
+Antimônio
+7440-36-0
+mg/L
+0,006
+Arsênio
+7440-38-2
+mg/L
+0,01
+Bário
+7440-39-3
+mg/L
+0,7
+Cádmio
+7440-43-9
+mg/L
+0,003
+Chumbo
+7439-92-1
+mg/L
+0,01
+Cobre
+7440-50-8
+mg/L
+2
+Cromo
+7440-47-3
+mg/L
+0,05
+Fluoreto
+7782-41-4
+mg/L
+1,5
+Mercúrio Total
+7439-97-6
+mg/L
+0,001
+Níquel
+7440-02-0
+mg/L
+0,07
+Nitrato (como N)(3)
+14797-55-8
+mg/L
+10
+Nitrito (como N)(3)
+14797-65-0
+mg/L
+1
+Selênio
+7782-49-2
+mg/L
+0,04
+Urânio
+7440-61-1
+mg/L
+0,03
+TABELA DE PADRÃO DE POTABILIDADE PARA SUBST&Acirc;NCIAS ORG&Acirc;NICAS QUE REPRESENTAM RISCO &Agrave; SAÚDE
+Parâmetro
+CAS(1)
+Unidade
+VMP(2)
+1,2 Dicloroetano
+107-06-2
+&mu;g/L
+5
+Acrilamida
+79-06-1
+&mu;g/L
+0,5
+Benzeno
+71-43-2
+&mu;g/L
+5
+Benzo[a]pireno
+50-32-8
+&mu;g/L
+0,4
+Cloreto de Vinila
+75-01-4
+&mu;g/L
+0,5
+Di(2-etilhexil) ftalato
+117-81-7
+&mu;g/L
+8
+Diclorometano
+75-09-2
+&mu;g/L
+20
+Dioxano
+123-91-1
+&mu;g/L
+48
+Epicloridrina
+106-89-8
+&mu;g/L
+0,4
+Etilbenzeno
+100-41-4
+&mu;g/L
+300
+Pentaclorofenol
+87-86-5
+&mu;g/L
+9
+Tetracloreto de Carbono
+56-23-5
+&mu;g/L
+4
+Tetracloroeteno
+127-18-4
+&mu;g/L
+40
+Tolueno
+108-88-3
+&mu;g/L
+30
+Tricloroeteno
+79-01-6
+&mu;g/L
+4
+Xilenos
+1330-20-7
+&mu;g/L
+500
+TABELA DE PADRÃO DE POTABILIDADE PARA AGROTÓXICOS E METABÓLITOS QUE REPRESENTAM
+TABELA DE PADRÃO DE POTABILIDADE PARA AGROTÓXICOS E METABÓLITOS QUE REPRESENTAM RISCO &Agrave; SAÚDE
+Parâmetro
+CAS(1)
+Unidade
+VMP(2)
+2,4 D
+94-75-7
+&mu;g/L
+30
+Alacloro
+15972-60-8
+&mu;g/L
+20
+Aldicarbe + Aldicarbesulfona +Aldicarbesulfóxido
+116-06-3 (aldicarbe)
+1646-88-4(aldicarbesulfona)
+1646-87-3 (aldicarbe sulfóxido)
+&mu;g/L
+10
+Aldrin + Dieldrin
+309-00-2 (aldrin)
+60-57-1 (dieldrin)
+&mu;g/L
+0,03
+Ametrina
+834-12-8
+&mu;g/L
+60
+Atrazina +
+S-Clorotriazinas (Deetil-Atrazina - Dea,
+Deisopropil-Atrazina - Dia e
+Diaminoclorotriazina -Dact)
+1912-24-9 (Atrazina)
+6190-65-4 (Deetil-Atrazina - Dea)
+1007-28-9 (Deisopropil-Atrazina - Dia)
+3397-62-4 (Diaminoclorotriazina -Dact)
+&mu;g/L
+2,0
+Carbendazim
+10605-21-7
+&mu;g/L
+120
+Carbofurano
+1563-66-2
+&mu;g/L
+7
+Ciproconazol
+94361-06-5
+&mu;g/L
+30
+Clordano
+5103-74-2
+&mu;g/L
+0,2
+Clorotalonil
+1897-45-6
+&mu;g/L
+45
+Clorpirifós + clorpirifós-oxon
+2921-88-2 (clorpirifós)
+5598-15-2 (clorpirifósoxon)
+&mu;g/L
+30,0
+DDT+DDD+DDE
+50-29-3 (p,p'-DDT)
+72-54-8 (p,p'-DDD)
+72-55-9 (p,p'-DDE)
+&mu;g/L
+1
+Difenoconazol
+119446-68-3
+&mu;g/L
+30
+Dimetoato +
+ometoato
+60-51-5 (Dimetoato)
+1113-02-6 (Ometoato)
+&mu;g/L
+1,2
+Diuron
+330-54-1
+&mu;g/L
+20
+Epoxiconazol
+135319-73-2
+&mu;g/L
+60
+Fipronil
+120068-37-3
+&mu;g/L
+1,2
+Flutriafol
+76674-21-0
+&mu;g/L
+30
+Glifosato + AMPA
+1071-83-6 (glifosato)
+1066-51-9 (AMPA)
+&mu;g/L
+500
+Hidroxi-Atrazina
+2163-68-0
+&mu;g/L
+120,0
+Lindano (gama HCH)
+58-89-9
+&mu;g/L
+2
+Malationa
+121-75-5
+&mu;g/L
+60
+Mancozebe +
+ETU
+8018-01-7 (Mancozebe)
+96-45-7 (Ampa)
+&mu;g/L
+8
+Metamidofós +
+Acefato
+10265-92-6 (Metamidofós)
+30560-19-1 (Acefato)
+&mu;g/L
+7
+Metolacloro
+51218-45-2
+&mu;g/L
+10
+Metribuzim
+21087-64-9
+&mu;g/L
+25
+Molinato
+2212-67-1
+&mu;g/L
+6
+Paraquate
+4685-14-7
+&mu;g/L
+13
+Picloram
+1918-02-1
+&mu;g/L
+60
+Profenofós
+41198-08-7
+&mu;g/L
+0,3
+Propargito
+2312-35-8
+&mu;g/L
+30
+Protioconazol +
+ProticonazolDestio
+178928-70-6 (Protioconazol)
+120983-64-4 (ProticonazolDestio)
+&mu;g/L
+3
+Simazina
+122-34-9
+&mu;g/L
+2
+Tebuconazol
+107534-96-3
+&mu;g/L
+180
+Terbufós
+13071-79-9
+&mu;g/L
+1,2
+Tiametoxam
+153719-23-4
+&mu;g/L
+36
+Tiodicarbe
+59669-26-0
+&mu;g/L
+90
+Tiram
+137-26-8
+&mu;g/L
+6
+Trifluralina
+1582-09-8
+&mu;g/L
+20
+TABELA DE PADRÃO DE POTABILIDADE PARA SUBPRODUTOS DA DESINFECÇÃO QUE REPRESENTAM RISCO &Agrave; SAÚDE(4)
+Parâmetro
+CAS(1)
+Unidade
+VMP(2)
+2,4,6 Triclorofenol
+88-06-2
+mg/L
+0,2
+2,4-diclorofenol
+120-83-2
+mg/L
+0,2
+Ácidos haloacéticos total(5)
+-
+mg/L
+0,08
+Bromato
+15541-45-4
+mg/L
+0,01
+Cloraminas Total
+-
+mg/L
+4
+Clorato
+7775-09-9
+mg/L
+0,7
+Clorito
+7758-19-2
+mg/L
+0,7
+Cloro residual livre
+7782-50-5
+mg/L
+5
+N-nitrosodimetilamina(7)
+62-75-9
+mg/L
+0,0001
+TrihalometanosTotal(6)
+-
+mg/L
+0,1
+NOTAS:
+(1) CAS é o número de referência de compostos e substâncias químicas adotado pelo Chemical Abstract Service.
+(2) Valor Máximo Permitido.
+(3) A soma das razões das concentrações de nitrito e nitrato e seus respectivos VMPs, deve atender ao disposto no Art. 38.
+(4) Análise exigida de acordo com o desinfetante utilizado e oxidante utilizado para pré-oxidação.
+(5) Ácidos haloacéticos: ácido monocloroacético - CAS = 79-11-8, ácido dicloroacético - CAS = 79-43-6, ácido tricloroacético - CAS = 76-03-9, ácido monobromoacético - CAS = 79-08-3, ácido dibromoacético - CAS = 631-64-1, ácido bromocloroacético - CAS = 5589-96-8, ácido bromodicloroacético - CAS = 71133-14-7, ácido dibromocloroacético - CAS = 5278-95-5, ácido tribromoacético - CAS = 75-96-7.
+(6) O monitoramento será obrigatório apenas onde se pratique a desinfecção por cloraminação.
+(7) Trihalometanos: Triclorometano ou Clorofórmio (TCM) - CAS = 67-66-3, Bromodiclorometano (BDCM) - CAS = 75-27-4, Dibromoclorometano (DBCM) - CAS = 124-48-1, Tribromometano ou Bromofórmio (TBM) - CAS = 75-25-2.
+ANEXO 10
+TABELA DE PADRÃO DE CIANOTOXINAS DA ÁGUA PARA CONSUMO HUMANO.
+Parâmetro(1)
+Unidade
+VMP(&sup2;)
+Cilindrospermopsinas
+&mu;g/L
+1,0
+Microcistina
+&mu;g/L (equivalente de MCYST-LR)(3)
+1,0
+Saxitoxinas
+&mu;g/L (equivalente STX)
+3,0
+NOTAS:
+(1) A frequência para o controle de cianotoxinas está prevista na tabela do Anexo 13.
+(2) Valor Máximo Permitido.
+(3) O valor representa o somatório das concentrações de todas as variantes de microcistinas.
+ANEXO 11
+TABELA DE PADRÃO ORGANOLÉPTICO DE POTABILIDADE.
+Parâmetro
+CAS
+Unidade
+VMP(&sup1;)
+Alumínio
+7429-90-5
+mg/L
+0,2
+Amônia (como N)
+7664-41-7
+mg/L
+1,2
+Cloreto
+16887-00-6
+mg/L
+250
+Cor Aparente (&sup2;)
+uH
+15
+1,2 diclorobenzeno
+95-50-1
+mg/L
+0,001
+1,4 diclorobenzeno
+106-46-7
+mg/L
+0,0003
+Dureza total
+mg/L
+300
+Ferro
+7439-89-6
+mg/L
+0,3
+Gosto e odo
+Intensidade
+6
+Manganês
+7439-96-5
+mg/L
+0,1
+Monoclorobenzeno
+108-90-7
+mg/L
+0,02
+Sódio
+7440-23-5
+mg/L
+200
+Sólidos dissolvidos totais
+mg/L
+500
+Sulfato
+14808-79-8
+mg/L
+250
+Sulfeto de hidrogênio
+7783-06-4
+mg/L
+0,05
+Turbidez (3)
+uT
+5
+Zinco
+7440-66-6
+mg/L
+5
+NOTAS:
+(1) Valor máximo permitido.
+(2) Unidade Hazen (mgPt-Co/L).
+(3) Unidade de turbidez.
+ANEXO 12
+TABELA DE FREQU&Ecirc;NCIA DE MONITORAMENTO DE CIANOBACTÉRIAS EM MANANCIAIS SUPERFICIAIS DE ABASTECIMENTO DE ÁGUA.
+Quando a contagem de células de cianobactérias (células/mL) for:
+Frequência
+&pound; 10.000
+Trimestral
+> 10.000
+Semanal
+ANEXO 13
+TABELA DE NÚMERO MÍNIMO DE AMOSTRAS E FREQU&Ecirc;NCIA PARA O CONTROLE DA QUALIDADE DA ÁGUA DE SISTEMA DE ABASTECIMENTO, PARA FINS DE ANÁLISES FÍSICAS E QUÍMICAS, EM FUNÇÃO DO PONTO DE AMOSTRAGEM, DA POPULAÇÃO ABASTECIDA E DO TIPO DE MANANCIAL.
+Parâmetro
+Tipo de Manancial
+Saída do Tratamento
+Sistema de distribuição (reservatórios e redes)
+Nº Amostras
+Frequência
+População abastecida
+<50.000 hab.
+Número de amostras
+Frequência
+Turbidez, Residual de desinfetante(1), Cor aparente, pH
+Superficial
+1
+A cada 2 horas
+Conforme § 3º do Art. 42
+Subterrâneo
+1
+semanal
+Fluoreto(2)
+Superficial ouSubterrâneo
+1
+A cada 2 horas
+Dispensada a análise
+Gosto e odor
+Superficial
+1
+Trimestral
+Dispensada a análise
+Subterrâneo
+1
+Semestral
+Dispensada a análise
+Cianotoxinas
+Superficial
+1
+Semanal quando contagem de cianobactérias&sup3; 20.000 células/mL
+Dispensada a análise
+Produtos secundários da desinfecção(3)
+Superficial
+Dispensada a análise
+1(4)
+4(4)
+8(4)
+Bimestral
+Subterrâneo
+1(4)
+2(4)
+3(4)
+Anual
+Semestral
+Acrilamida(5)
+Superficial ouSubterrâneo
+1
+Mensal
+1(6)
+Mensal
+Epicloridrina(4)
+Superficial ouSubterrâneo
+1
+Mensal
+1(6)
+Mensal
+Cloreto de Vinila(7)
+Superficial ouSubterrâneo
+1
+Semestral
+1
+Semestral
+Demais parâmetros (8)(9)
+Superficial ouSubterrâneo
+1
+Semestral
+1(6)
+Trimestral
+NOTAS:
+(1) Análise exigida de acordo com o desinfetante utilizado.
+(2) Para sistemas que realizam a fluoretação ou desfluoretação da água. Os demais sistemas devem realizar o monitoramento de fluoreto conforme a frequência definida para demais parâmetros.
+(3) Quando houver pré-oxidação com agente diferente do desinfetante incluir o monitoramento de subproduto em função do oxidante utilizado.
+(4) As amostras devem ser coletadas, preferencialmente, em pontos de maior tempo de detenção da água no sistema de distribuição.
+(5) Deve ser monitorado apenas pelos SAA e SAC que fazem o uso de polímero que apresenta essa substância em sua constituição. A coleta de amostra deve ser realizada durante o período em que esse polímero for utilizado no tratamento de água.
+(6) Quando o parâmetro não for detectado na saída do tratamento (resultado da análise menor que o limite de detecção) fica dispensado o monitoramento na água distribuída, à exceção de substâncias que potencialmente possam ser introduzidas no sistema.
+(7) Cloreto de Vinila deve ser monitorado na rede de distribuição, mesmo que não seja encontrado na saída do tratamento, tendo em vista a possibilidade de serem liberados de materiais a base de plástico PVC.
+(8) Para agrotóxicos, observar o disposto no parágrafo 4º do artigo 44.
+(9) Quando o parâmetro for detectado na saída do tratamento, deve-se monitorar com frequência trimestral na saída do tratamento e no sistema de distribuição.
+ANEXO 14
+TABELA DE NÚMERO MÍNIMO DE AMOSTRAS MENSAIS PARA O CONTROLE DA QUALIDADE DA ÁGUA DE SISTEMA DE ABASTECIMENTO, PARA FINS DE ANÁLISES BACTERIOLÓGICAS, EM FUNÇÃO DA POPULAÇÃO ABASTECIDA.
+Parâmetro
+Tipo de Manancial
+Saída doTratamento(Número de amostras por unidade de tratamento)
+Sistema de distribuição (reservatórios e rede)
+População abastecida
+<5.000
+5.000a10.000
+10.000 a 50.000
+50.000 a 80.000
+80.000 a 130.000
+130.000 a 250.000
+250.000 a 340.000
+340.000 a 400.000
+400.000 a 600.000
+600.000 a 1.140.000
+1.140.000
+Coliformes totais
+Superficial
+Duas amostras semanais
+5
+10
+1 para cada 1.000 habitantes
+25 + 1 para cada 2.000 habitantes
+1 + 1 para cada 1.250 habitantes
+40 + 1 para cada 2.000 habitantes
+115 + 1 para cada 5.000 habitantes
+47 + 1 para cada 2.500 habitantes
+127 + 1 para cada 5.000 habitantes
+187 + 1 para cada 10.000 habitantes
+244 + 1 para cada 20.000 habitantes(Máximo de 400)
+Subterrâneo
+Semanal
+Escherichia coli
+-
+ANEXO 15
+TABELA DE NÚMERO MÍNIMO DE AMOSTRAS E FREQU&Ecirc;NCIA MÍNIMA DE AMOSTRAGEM PARA O CONTROLE DA QUALIDADE DA ÁGUA DE SOLUÇÃO ALTERNATIVA COLETIVA, PARA FINS DE ANÁLISES FÍSICAS, QUÍMICAS E MICROBIOLÓGICAS, EM FUNÇÃO DO TIPO DE MANANCIAL E DO PONTO DE AMOSTRAGEM.
+Parâmetro
+Tipo de manancial
+Saída do tratamento
+Número de amostras retiradas no ponto de consumo (para cada 1000 hab.)
+Frequência de amostragem
+Cor aparente, pH, coliformes totais e Escherichia coli
+Superficial
+1
+Semanal
+Subterrâneo
+1
+Mensal
+Turbidez
+Superficial
+1
+Semanal
+Subterrâneo
+1
+Semanal na saída do tratamentoMensal no ponto de consumo
+Residual de desinfetante(1)
+Superficial ou Subterrâneo
+1
+Diário
+Demais parâmetros
+Superficial ou Subterrâneo -
+1
+-
+Semestral
+NOTAS:
+(1) Análise exigida de acordo com o desinfetante utilizado.
+Sa�de
+Legis - Sistema de Legisla��o da Sa�de

@@ -1,0 +1,115 @@
+Minist�rio da Sa�de
+ADVERT&Ecirc;NCIA
+Este texto n�o substitui o publicado no Diário Oficial da
+União
+Ministério da Saúde
+Gabinete do Ministro
+PORTARIA GM/MS Nº 2.472, DE 28 DE SETEMBRO DE 2021
+Altera o Anexo XX da Portaria de Consolidação GM/MS nº 5, de 28 de setembro de 2017, para dispor sobre os procedimentos de controle e de vigilância da qualidade da água para consumo humano e seu padrão de potabilidade.
+O MINISTRO DE ESTADO DA SAÚDE, SUBSTITUTO, no uso das atribuições que lhe conferem os incisos I e II do parágrafo único do artigo. 87 da Constituição, resolve:
+Art. 1º O Capítulo VI do Anexo XX da Portaria de Consolidação GM/MS nº 5, de 28 de setembro de 2017, passa a vigorar com a seguinte alteração:
+"Art. 44 ..........................................................................................
+.......................................................................................................
+§ 3º Em todas as amostras coletadas para análises bacteriológicas, deve ser efetuada medição de cor aparente, turbidez e residual de desinfetante.
+....................................................................................................." (NR)
+Art. 2º O Anexo 13 do Anexo XX da Portaria de Consolidação GM/MS nº 5, de 2017, passa a vigorar na forma do Anexo a esta Portaria.
+Art. 3º Esta Portaria entra em vigor na data de sua publicação.
+RODRIGO OTAVIO MOREIRA DA CRUZ
+ANEXO
+(Anexo 13 do Anexo XX da Portaria de Consolidação GM/MS nº 5, de 2017)
+TABELA DE NÚMERO MÍNIMO DE AMOSTRAS E FREQU&Ecirc;NCIA PARA O CONTROLE DA QUALIDADE DA ÁGUA DE SISTEMA DE ABASTECIMENTO, PARA FINS DE ANÁLISES FÍSICAS E QUÍMICAS, EM FUNÇÃO DO PONTO DE AMOSTRAGEM, DA POPULAÇÃO ABASTECIDA E DO TIPO DE MANANCIAL.
+Parâmetro
+Tipo de Manancial
+Saída do Tratamento
+Sistema de distribuição (reservatórios e redes)
+Nº Amostras
+Frequência
+População abastecida
+<50.000 hab.
+50.000 a250.000 hab.
+>250.000 hab.
+<50.000 hab.
+50.000 a250.000 hab.
+>250.000 hab.
+Número de amostras
+Frequência
+Turbidez, Residual de desinfetante(1), Cor aparente
+Superficial
+1
+A cada 2 horas
+Conforme § 3º do art. 44
+Subterrâneo
+1
+Semanal
+pH e Fluoreto(2)
+Superficial
+1
+A cada 2 horas
+Dispensada a análise
+Subterrâneo
+1
+Semanal
+Dispensada a análise
+Gosto e odor
+Superficial
+1
+Trimestral
+Dispensada a análise
+Subterrâneo
+1
+Semestral
+Dispensada a análise
+Cianotoxinas
+Superficial
+1
+Semanal quando contagem de cianobactérias&sup3; 20.000 células/mL
+Dispensada a análise
+Produtos secundários da desinfecção(3)
+Superficial
+Dispensada a análise
+1(4)
+4(4)
+8(4)
+Bimestral
+Subterrâneo
+1(4)
+2(4)
+3(4)
+Anual
+Semestral
+Acrilamida(5)
+Superficial ou Subterrâneo
+1
+Mensal
+1(6)
+Mensal
+Epicloridrina(5)
+Superficial ou Subterrâneo
+1
+Mensal
+1(6)
+Mensal
+Cloreto de Vinila(7)
+Superficial ou Subterrâneo
+1
+Semestral
+1
+Semestral
+Demais parâmetros (8)(9)
+Superficial ou Subterrâneo
+1
+Semestral
+1(6)
+Trimestral
+NOTAS:
+(1) Análise exigida de acordo com o desinfetante utilizado.
+(2) Para sistemas que realizam a fluoretação ou desfluoretação da água. Os demais sistemas devem realizar o monitoramento de fluoreto conforme a frequência definida para demais parâmetros.
+(3) Quando houver pré-oxidação com agente diferente do desinfetante incluir o monitoramento de subproduto em função do oxidante utilizado.
+(4) As amostras devem ser coletadas, preferencialmente, em pontos de maior tempo de detenção da água no sistema de distribuição.
+(5) Deve ser monitorado apenas pelos SAA e SAC que fazem o uso de polímero que apresenta essa substância em sua constituição. A coleta de amostra deve ser realizada durante o período em que esse polímero for utilizado no tratamento de água.
+(6) Quando o parâmetro não for detectado na saída do tratamento (resultado da análise menor que o limite de detecção) fica dispensado o monitoramento na água distribuída, à exceção de substâncias que potencialmente possam ser introduzidas no sistema.
+(7) Cloreto de Vinila deve ser monitorado na rede de distribuição, mesmo que não seja encontrado na saída do tratamento, tendo em vista a possibilidade de serem liberados de materiais a base de plástico PVC.
+(8) Para agrotóxicos, observar o disposto no parágrafo 4º do artigo 44.
+(9) Quando o parâmetro for detectado na saída do tratamento, deve-se monitorar com frequência trimestral na saída do tratamento e no sistema de distribuição.
+Sa�de
+Legis - Sistema de Legisla��o da Sa�de
