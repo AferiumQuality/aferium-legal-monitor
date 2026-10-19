@@ -1,7 +1,7 @@
 /* Monitor legal Aferium — varredura das fontes oficiais.
    Lê public/legal/sources.json, confere cada fonte, compara com a varredura anterior e grava
    public/legal/status.json, public/legal/history.json e public/legal/text/<fonte>.txt.
-   Não usa nenhuma biblioteca externa (Node 20+). Mudanças exigem revisão humana: o monitor só avisa. */
+   Usa só o undici (opcional) para ajustar o tempo de conexão (Node 20+). Mudanças exigem revisão humana: o monitor só avisa. */
 import fs from 'node:fs';
 import path from 'node:path';
 import crypto from 'node:crypto';
@@ -13,6 +13,14 @@ const MAX_BYTES = 25 * 1024 * 1024;
 const MAX_TEXT = 400 * 1024;
 const HISTORY_CAP = 500;
 const UA = 'Mozilla/5.0 (compatible; AferiumLegalMonitor/1.0; +https://aferiumquality.com.br)';
+
+// Sites públicos brasileiros costumam demorar para aceitar conexão vinda do exterior; o padrão do Node (10 s) é curto demais.
+let httpFetch = fetch, httpDispatcher;
+try {
+  const u = await import('undici');
+  httpDispatcher = new u.Agent({ connect: { timeout: 60000 }, headersTimeout: 60000, bodyTimeout: 60000 });
+  httpFetch = u.fetch;
+} catch (_) { /* sem undici: usa o fetch do Node */ }
 
 const sha = b => crypto.createHash('sha256').update(b).digest('hex');
 const sleep = ms => new Promise(r => setTimeout(r, ms));
@@ -58,7 +66,7 @@ export function extractLinks(html, baseUrl) {
 async function fetchOnce(url, timeoutMs) {
   let res;
   try {
-    res = await fetch(url, { redirect: 'follow', signal: AbortSignal.timeout(timeoutMs), headers: { 'User-Agent': UA, 'Accept': 'text/html,application/xhtml+xml,application/pdf,*/*;q=0.8', 'Accept-Language': 'pt-BR,pt;q=0.9,en;q=0.5', 'Upgrade-Insecure-Requests': '1' } });
+    res = await httpFetch(url, { dispatcher: httpDispatcher, redirect: 'follow', signal: AbortSignal.timeout(timeoutMs), headers: { 'User-Agent': UA, 'Accept': 'text/html,application/xhtml+xml,application/pdf,*/*;q=0.8', 'Accept-Language': 'pt-BR,pt;q=0.9,en;q=0.5', 'Upgrade-Insecure-Requests': '1' } });
   } catch (e) {
     const c = e && e.cause && (e.cause.code || e.cause.message);
     throw new Error((e && e.name === 'TimeoutError' ? 'tempo esgotado' : 'falha de conexão') + (c ? ' (' + c + ')' : ''));
@@ -104,7 +112,7 @@ function nextScanAt(now) {
 
 export async function runScan(opts = {}) {
   const root = opts.root || process.cwd(), dir = path.join(root, 'public', 'legal');
-  const o = { attempts: 3, timeoutMs: 45000, retryDelayMs: 4000, confirmDelayMs: 3000, concurrency: 4, now: () => new Date(), ...opts };
+  const o = { attempts: 3, timeoutMs: 75000, retryDelayMs: 4000, confirmDelayMs: 3000, concurrency: 4, now: () => new Date(), ...opts };
   const sourcesDoc = readJson(path.join(dir, 'sources.json'), null);
   if (!sourcesDoc || !Array.isArray(sourcesDoc.sources)) throw new Error('sources.json ausente ou inválido');
   const prev = readJson(path.join(dir, 'status.json'), {});

@@ -22,6 +22,15 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
+      - name: Instalar dependências
+        run: npm install --no-audit --no-fund --no-package-lock
+      - name: Diagnóstico de rede (ADEAL e Saúde)
+        continue-on-error: true
+        run: |
+          for u in https://www.defesaagropecuaria.al.gov.br/ https://bvsms.saude.gov.br/; do
+            echo "== $u"; curl -4 -sS -o /dev/null -m 90 -A "Mozilla/5.0" -w "IPv4 http=%{http_code} conectou=%{time_connect}s total=%{time_total}s\n" "$u" || echo "IPv4 falhou"
+            curl -6 -sS -o /dev/null -m 30 -A "Mozilla/5.0" -w "IPv6 http=%{http_code} total=%{time_total}s\n" "$u" || echo "IPv6 falhou"
+          done
       - name: Varrer as fontes oficiais
         run: node scripts/scan.mjs
       - name: Publicar o resultado

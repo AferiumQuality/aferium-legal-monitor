@@ -4,6 +4,13 @@
   "private": true,
   "type": "module",
   "description": "Monitor legal da Aferium: varre as fontes oficiais e publica o resultado em public/legal.",
-  "scripts": { "scan": "node scripts/scan.mjs" },
-  "engines": { "node": ">=20" }
+  "scripts": {
+    "scan": "node scripts/scan.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "undici": "6.21.0"
+  }
 }
