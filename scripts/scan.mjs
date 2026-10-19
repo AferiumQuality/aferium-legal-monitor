@@ -56,7 +56,13 @@ export function extractLinks(html, baseUrl) {
 }
 
 async function fetchOnce(url, timeoutMs) {
-  const res = await fetch(url, { redirect: 'follow', signal: AbortSignal.timeout(timeoutMs), headers: { 'User-Agent': UA, 'Accept': 'text/html,application/pdf,*/*;q=0.8', 'Accept-Language': 'pt-BR,pt;q=0.9' } });
+  let res;
+  try {
+    res = await fetch(url, { redirect: 'follow', signal: AbortSignal.timeout(timeoutMs), headers: { 'User-Agent': UA, 'Accept': 'text/html,application/xhtml+xml,application/pdf,*/*;q=0.8', 'Accept-Language': 'pt-BR,pt;q=0.9,en;q=0.5', 'Upgrade-Insecure-Requests': '1' } });
+  } catch (e) {
+    const c = e && e.cause && (e.cause.code || e.cause.message);
+    throw new Error((e && e.name === 'TimeoutError' ? 'tempo esgotado' : 'falha de conexão') + (c ? ' (' + c + ')' : ''));
+  }
   if (!res.ok) throw new Error('HTTP ' + res.status);
   const len = Number(res.headers.get('content-length') || 0);
   if (len > MAX_BYTES) throw new Error('arquivo grande demais');
