@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 2,
+  "items": [],
+  "reviews": [
+    {
+      "id": "manual-review-20260730",
+      "reviewedAt": "2026-07-30T21:36:00-03:00",
+      "result": "completed",
+      "referencesReviewed": 57,
+      "addedReferences": [
+        "port449",
+        "port925",
+        "port930",
+        "port1485",
+        "port1626",
+        "adeal6608",
+        "adeal2919",
+        "adealIS02",
+        "adealIS04"
+      ],
+      "reclassifiedAsContextual": [
+        "adeal117",
+        "mapaPortal"
+      ],
+      "note": "Revisão documental em fontes oficiais. Não representa monitoramento automático em tempo real."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+name: Monitor legal Aferium
+
+on:
+  schedule:
+    # 06:17 e 18:17 em Maceió (UTC-3). Precisa bater com SCAN_TIMES_UTC em scripts/scan.mjs.
+    - cron: '17 9,21 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: legal-monitor
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Varrer as fontes oficiais
+        run: node scripts/scan.mjs
+      - name: Publicar o resultado
+        run: |
+          git config user.name "aferium-legal-monitor"
+          git config user.email "actions@users.noreply.github.com"
+          git add public/legal
+          if git diff --cached --quiet; then echo "Sem mudanças para publicar."; else git commit -m "Varredura legal $(date -u +%Y-%m-%dT%H:%MZ)"; git push; fi
