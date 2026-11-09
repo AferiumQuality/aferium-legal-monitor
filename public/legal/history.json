@@ -2,6 +2,20 @@
   "schemaVersion": 2,
   "items": [
     {
+      "id": "port532-bc0f19b5b5",
+      "sourceId": "port532",
+      "title": "Alteração em Portaria MPA nº 532/2025 — Nomes de peixes",
+      "summary": "O arquivo PDF desta fonte oficial foi alterado ou substituído desde a última varredura. Abra a fonte e compare com a versão anterior.",
+      "authority": "Ministério da Pesca e Aquicultura",
+      "sourceTitle": "Portaria MPA nº 532/2025 — Nomes de peixes",
+      "sourceUrl": "https://www.gov.br/mpa/pt-br/assuntos/pesca-amadora-e-esportiva/nomenclatura-de-peixes-de-interesse-comercial/copy_of_Port5322025MPApeixesnomescomunsecientficos.pdf",
+      "detectedAt": "2026-11-09T21:54:01.727Z",
+      "previousHash": "20dd52385f40f17d2e7b87ef2fe2d3fe2a9bb8e9c703d21e45a20a7536b4968f",
+      "newHash": "bc0f19b5b5cb6ab5cca5c623402f44105702eaf1802e484eae083be4b412700e",
+      "addedLinks": [],
+      "unstable": true
+    },
+    {
       "id": "port532-20dd52385f",
       "sourceId": "port532",
       "title": "Alteração em Portaria MPA nº 532/2025 — Nomes de peixes",
