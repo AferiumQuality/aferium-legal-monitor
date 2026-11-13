@@ -1,5 +1,8 @@
 Info
 COP31
+“Não existe a palavra impossível na minha vida”, diz Lula em encontro com representantes da sociedade civil na COP31
+Saiba mais sobre COP31
+COP31
 “A crise climática é, também, uma crise de injustiças”, afirma Lula na abertura da Cúpula de Líderes da COP31, na Turquia
 Saiba mais sobre COP31
 COP31
@@ -8,17 +11,14 @@ Saiba mais sobre COP31
 COMBUSTÍVEIS
 Governo Federal prorroga até 9 de dezembro desoneração da gasolina e do etanol
 Saiba mais sobre COMBUSTÍVEIS
-COMUNICAÇÃO
-Pronunciamento do presidente Lula à nação
-Saiba mais sobre COMUNICAÇÃO
 NOTA À IMPRENSA
 Presidente Lula se reúne com o primeiro-ministro da Noruega, Jonas Gahr Støre
 NOTA À IMPRENSA
 Presidente Lula se reúne com presidenta encarregada da Venezuela, Delcy Rodríguez
 NOTA À IMPRENSA
 Presidente Lula se reúne com o presidente da Turquia, Recep Tayyip Erdogan
-EDUCAÇÃO
-“Esse país só vai garantir um futuro digno de verdade para o seu povo com educação”, diz Lula sobre o Enem
+COMUNICAÇÃO
+Pronunciamento do presidente Lula à nação
 EDUCAÇÃO EM SAÚDE
 Lula sanciona lei que fortalece avaliação da formação médica e torna Enamed requisito para exercício da profissão
 MAIS NOTÍCIAS
@@ -40,7 +40,9 @@ Dom
 16
 Seg
 Compromissos do dia
-Sem compromissos oficiais.
+Chegada a Manila
+Terminal Maharlika, Base Aérea Villamor
+13h00
 Agenda Completa
 Serviços e Informações
 Imprensa
