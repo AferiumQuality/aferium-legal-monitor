@@ -25,8 +25,6 @@ MAIS NOTÍCIAS
 Agenda do Presidente da República
 NOV
 2026
-9
-Seg
 10
 Ter
 11
@@ -39,6 +37,8 @@ Sex
 Sáb
 15
 Dom
+16
+Seg
 Compromissos do dia
 Sem compromissos oficiais.
 Agenda Completa
