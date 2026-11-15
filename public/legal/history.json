@@ -2,6 +2,48 @@
   "schemaVersion": 2,
   "items": [
     {
+      "id": "dec10468-af60ab6641",
+      "sourceId": "dec10468",
+      "title": "Alteração em Decreto Federal nº 10.468/2020",
+      "summary": "O texto desta fonte oficial mudou desde a última varredura. Trechos novos: «“Navegar juntos implica escolher a rota do desenvolvimento sustentável e da redução das desigualdades”, diz Lula na abertura da Cúpula da ASEAN, nas Filipinas» «“Queremos ser parceiros definitivos da ASEAN”, diz Lula durante conversa com a imprensa nas Filipinas» «EDUCAÇÃO» Trechos removidos: «Lula ressalta na Turquia que vontade política, investimento e cooperação internacional são fundamentais para proteção d…» «DIÁRIO OFICIAL DA UNIÃO»",
+      "authority": "Presidência da República",
+      "sourceTitle": "Decreto Federal nº 10.468/2020",
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/decreto/d10468.htm",
+      "detectedAt": "2026-11-15T21:46:00.911Z",
+      "previousHash": "ac1aa8e3a6ed778f499f69faa826c241c400ca997208331dcba89af415fc88f7",
+      "newHash": "af60ab6641bfbac041fd81a08cd0fe15d39689b5cc4c735a5fcef9e76e3f125d",
+      "addedLinks": [],
+      "unstable": false
+    },
+    {
+      "id": "lei14515-af60ab6641",
+      "sourceId": "lei14515",
+      "title": "Alteração em Lei Federal nº 14.515/2022 — Lei do Autocontrole",
+      "summary": "O texto desta fonte oficial mudou desde a última varredura. Trechos novos: «RELAÇÕES EXTERIORES» «“Navegar juntos implica escolher a rota do desenvolvimento sustentável e da redução das desigualdades”, diz Lula na abertura da Cúpula da ASEAN, nas Filipinas» «Saiba mais sobre RELAÇÕES EXTERIORES» Trechos removidos: «Lula ressalta na Turquia que vontade política, investimento e cooperação internacional são fundamentais para proteção d…» «COMBUSTÍVEIS»",
+      "authority": "Presidência da República / MAPA",
+      "sourceTitle": "Lei Federal nº 14.515/2022 — Lei do Autocontrole",
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14515.htm",
+      "detectedAt": "2026-11-15T21:46:00.911Z",
+      "previousHash": "f4af1c61914ac8e9078b5b76af078727b8abfa1b0d95fa69305375945dc478ee",
+      "newHash": "af60ab6641bfbac041fd81a08cd0fe15d39689b5cc4c735a5fcef9e76e3f125d",
+      "addedLinks": [],
+      "unstable": false
+    },
+    {
+      "id": "port532-0e6da57eab",
+      "sourceId": "port532",
+      "title": "Alteração em Portaria MPA nº 532/2025 — Nomes de peixes",
+      "summary": "O arquivo PDF desta fonte oficial foi alterado ou substituído desde a última varredura. Abra a fonte e compare com a versão anterior.",
+      "authority": "Ministério da Pesca e Aquicultura",
+      "sourceTitle": "Portaria MPA nº 532/2025 — Nomes de peixes",
+      "sourceUrl": "https://www.gov.br/mpa/pt-br/assuntos/pesca-amadora-e-esportiva/nomenclatura-de-peixes-de-interesse-comercial/copy_of_Port5322025MPApeixesnomescomunsecientficos.pdf",
+      "detectedAt": "2026-11-15T21:46:00.911Z",
+      "previousHash": "b94887e6052a6f7286afb8d84aa66e7d47cb3f77f65498da416064311fd4b59a",
+      "newHash": "0e6da57eab278a8dfa29271d6eac8277e5a23b8c8097eb17416c99977252c590",
+      "addedLinks": [],
+      "unstable": true
+    },
+    {
       "id": "lei1283-dbc0bfcb99",
       "sourceId": "lei1283",
       "title": "Alteração em Lei Federal nº 1.283/1950",
