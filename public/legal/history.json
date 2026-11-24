@@ -2,6 +2,53 @@
   "schemaVersion": 2,
   "items": [
     {
+      "id": "mapaPortal-947ac1a82f",
+      "sourceId": "mapaPortal",
+      "title": "Alteração em Portal oficial MAPA — Legislação de produtos de origem animal",
+      "summary": "O texto desta fonte oficial mudou desde a última varredura. Trechos novos: «PORTARIA Nº 185, DE 13 DE MAIO DE 1997 - Aprova o Regulamento Técnico de Identidade e Qualidade de Peixe Fresco (Inteiro e Eviscerado), em anexo.» «PORTARIA SDA/MAPA Nº 1.712, DE 23 DE NOVEMBRO DE 2026 - Estabelece o Regulamento Técnico de Identidade e Qualidade do Peixe Congelado, do Peixe Salmourado Cong…» Trechos removidos: «PORTARIA Nº 185, DE 13 DE MAIO DE 1997 - Aprova o Regulamento Técnico de Identidade e Qualidade de Peixe Fresco (Inteir…» «INSTRUÇÃO NORMATIVA Nº 21, DE 31 DE MAIO DE 2017 - Fica aprovado o Regulamento Técnico que fixa a identidade e as carac…»",
+      "authority": "Ministério da Agricultura e Pecuária",
+      "sourceTitle": "Portal oficial MAPA — Legislação de produtos de origem animal",
+      "sourceUrl": "https://www.gov.br/agricultura/pt-br/assuntos/inspecao/produtos-animal/legislacao",
+      "detectedAt": "2026-11-24T20:07:41.502Z",
+      "previousHash": "c3e2296a56c9fce16badec31bafa856df5ae07d30f075374db106f4c0c6e8cd2",
+      "newHash": "947ac1a82ff3c229effcc3f44f5a925b29085bb436431036782549be876098dc",
+      "addedLinks": [],
+      "unstable": false
+    },
+    {
+      "id": "port46-947ac1a82f",
+      "sourceId": "port46",
+      "title": "Alteração em Portaria MAPA nº 46/1998 — APPCC",
+      "summary": "Há novas referências nesta página oficial. O texto desta fonte oficial mudou desde a última varredura. Trechos novos: «PORTARIA Nº 185, DE 13 DE MAIO DE 1997 - Aprova o Regulamento Técnico de Identidade e Qualidade de Peixe Fresco (Inteiro e Eviscerado), em anexo.» «PORTARIA SDA/MAPA Nº 1.712, DE 23 DE NOVEMBRO DE 2026 - Estabelece o Regulamento Técnico de Identidade e Qualidade do Peixe Congelado, do Peixe Salmourado Cong…» Trechos removidos: «PORTARIA Nº 185, DE 13 DE MAIO DE 1997 - Aprova o Regulamento Técnico de Identidade e Qualidade de Peixe Fresco (Inteir…» «INSTRUÇÃO NORMATIVA Nº 21, DE 31 DE MAIO DE 2017 - Fica aprovado o Regulamento Técnico que fixa a identidade e as carac…»",
+      "authority": "MAPA",
+      "sourceTitle": "Portaria MAPA nº 46/1998 — APPCC",
+      "sourceUrl": "https://www.gov.br/agricultura/pt-br/assuntos/inspecao/produtos-animal/legislacao",
+      "detectedAt": "2026-11-24T20:07:41.502Z",
+      "previousHash": "c3e2296a56c9fce16badec31bafa856df5ae07d30f075374db106f4c0c6e8cd2",
+      "newHash": "947ac1a82ff3c229effcc3f44f5a925b29085bb436431036782549be876098dc",
+      "addedLinks": [
+        {
+          "title": "PORTARIA SDA/MAPA Nº 1.712, DE 23 DE NOVEMBRO DE 2026",
+          "url": "https://www.gov.br/agricultura/pt-br/assuntos/inspecao/produtos-animal/legislacao/Port17122026RTpeixecongelado.pdf"
+        }
+      ],
+      "unstable": false
+    },
+    {
+      "id": "port532-3f8fc9c136",
+      "sourceId": "port532",
+      "title": "Alteração em Portaria MPA nº 532/2025 — Nomes de peixes",
+      "summary": "O arquivo PDF desta fonte oficial foi alterado ou substituído desde a última varredura. Abra a fonte e compare com a versão anterior.",
+      "authority": "Ministério da Pesca e Aquicultura",
+      "sourceTitle": "Portaria MPA nº 532/2025 — Nomes de peixes",
+      "sourceUrl": "https://www.gov.br/mpa/pt-br/assuntos/pesca-amadora-e-esportiva/nomenclatura-de-peixes-de-interesse-comercial/copy_of_Port5322025MPApeixesnomescomunsecientficos.pdf",
+      "detectedAt": "2026-11-24T20:07:41.502Z",
+      "previousHash": "e09c45f26c65dac718a01f786904785eca9171e35be7da834a1030e87743f18e",
+      "newHash": "3f8fc9c1360e89936666191a873d51ab10786edbfd137fa892ba56c3ee72c9b8",
+      "addedLinks": [],
+      "unstable": true
+    },
+    {
       "id": "port532-e09c45f26c",
       "sourceId": "port532",
       "title": "Alteração em Portaria MPA nº 532/2025 — Nomes de peixes",
